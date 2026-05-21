@@ -1,6 +1,6 @@
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=70A5FD&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Wilson!+;Computer+Science+Student+;Always+learning+something+new+)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=70A5FD&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Wilson!+👋;Computer+Science+Student+💻;Always+learning+something+new+🚀)
 
 ### 🎓 Estudante de Técnico em Informática
 
@@ -8,6 +8,13 @@
 
 ---
 
+## 👤 Sobre mim
+
+- 📍 Maranguape, CE — Brasil
+- 🎓 Cursando Técnico em Informática
+- 🌱 Atualmente aprendendo: **Python, Java, HTML, CSS e JavaScript**
+- 💡 Sempre em busca de novos conhecimentos
+- ⚡ Fun fact: Todo expert já foi um iniciante!
 
 ---
 
