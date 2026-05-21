@@ -37,15 +37,6 @@
 
 ---
 
-## 🐍 Contribuições
-
-<div align="center">
-
-<img src="https://github.com/WilsonStack/WilsonStack/blob/output/github-contribution-grid-snake-dark.svg" />
-
-</div>
-
----
 
 <div align="center">
 
