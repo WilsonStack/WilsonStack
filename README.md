@@ -11,7 +11,7 @@
 ## 👤 About me
 
 - 🎓 Cursando Técnico em Informática
-- 🌱 Aprendendo: **Python, , HTML e CSS **
+- 🌱 Aprendendo: Python, , HTML e CSS 
 
 
 ---
