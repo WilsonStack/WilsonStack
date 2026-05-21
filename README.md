@@ -8,12 +8,11 @@
 
 ---
 
-## 👤 Sobre mim
+## 👤 About me
 
 - 📍 Maranguape, CE — Brasil
 - 🎓 Cursando Técnico em Informática
-- 🌱 Atualmente aprendendo: **Python, Java, HTML, CSS e JavaScript**
-- 💡 Sempre em busca de novos conhecimentos
+- 🌱 Aprendendo: **Python, Java, HTML, CSS e JavaScript**
 - ⚡ Fun fact: Todo expert já foi um iniciante!
 
 ---
@@ -29,14 +28,24 @@
 
 ---
 
-## 📊 Estatísticas
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=f-wilsu&show_icons=true&theme=tokyonight&locale=pt-br&hide_border=true" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=f-wilsu&layout=compact&theme=tokyonight&locale=pt-br&hide_border=true" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=f-wilsu&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=f-wilsu&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" width="48%" />
 
-<img src="https://streak-stats.demolab.com?user=f-wilsu&theme=tokyonight&locale=pt_BR&hide_border=true" width="60%" />
+<img src="https://streak-stats.demolab.com?user=f-wilsu&theme=tokyonight&hide_border=true&locale=pt_BR" width="60%" />
+
+</div>
+
+---
+
+## 🐍 Contribuições
+
+<div align="center">
+
+<img src="https://github.com/f-wilsu/f-wilsu/blob/output/github-contribution-grid-snake-dark.svg" />
 
 </div>
 
@@ -44,8 +53,8 @@
 
 <div align="center">
 
-*"A jornada de mil milhas começa com um único passo."*
-
 ![Visitor Count](https://profile-counter.glitch.me/f-wilsu/count.svg)
+
+*"A jornada de mil milhas começa com um único passo."*
 
 </div>
