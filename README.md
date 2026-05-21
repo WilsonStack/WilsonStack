@@ -38,10 +38,4 @@
 ---
 
 
-<div align="center">
 
-![Visitor Count](https://profile-counter.glitch.me/WilsonStack/count.svg)
-
-*"A jornada de mil milhas começa com um único passo."*
-
-</div>
