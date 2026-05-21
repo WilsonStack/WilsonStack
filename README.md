@@ -1,6 +1,6 @@
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=70A5FD&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Wilson!+👋;Computer+Science+Student+💻;Always+learning+something+new+🚀)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=70A5FD&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Wilson!)
 
 ### 🎓 Estudante de Técnico em Informática
 
