@@ -1,24 +1,16 @@
 <div align="center">
 
-<img src="./chess_github_animation.gif" width="820" alt="Chess Animation">
+<img src="./chess_github_animation.gif" width="100%" alt="Chess Animation">
 
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=25&duration=2800&pause=900&color=BD93F9&center=true&vCenter=true&width=850&lines=Hi%2C+I'm+Wilson!;T%C3%A9cnico+em+Inform%C3%A1tica;Java+%7C+JavaScript+%7C+Python;HTML+%7C+CSS+%7C+Linux;Transformando+ideias+em+c%C3%B3digo." alt="Typing SVG">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2800&pause=900&color=BD93F9&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Wilson!;T%C3%A9cnico+em+Inform%C3%A1tica;Java+%7C+JavaScript+%7C+Python;Web+Development+%7C+Linux;Building.+Learning.+Improving." alt="Typing SVG">
 
 <br><br>
 
 <a href="https://github.com/SEU_USUARIO">
-<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=BD93F9">
+<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=BD93F9" alt="GitHub">
 </a>
-
-<a href="seu-linkedin">
-<img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=BD93F9">
-</a>
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=SEU_USUARIO&style=flat-square&color=BD93F9&label=VISITAS">
 
 </div>
 
