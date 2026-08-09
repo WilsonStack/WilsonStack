@@ -280,17 +280,17 @@ VS Code
 
 <div align="center">
 
-## 📫 CONTATO
+<h2>📫 CONTATO</h2>
 
 <br>
 
-<a href="seu-linkedin">
-<img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=BD93F9">
+<a href="mailto:seu-email@email.com">
+<img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=BD93F9" alt="Email">
 </a>
 
-<a href="mailto:seu-email@email.com">
-<img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=BD93F9">
-</a>
+<br><br>
+
+<code>Code • Learn • Build</code>
 
 <br><br>
 
