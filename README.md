@@ -65,43 +65,31 @@ Gosto de aprender através da prática, criando projetos e resolvendo problemas 
 
 <div align="center">
 
-## 🧰 TECH STACK
-
-<br>
+## ⚡ TECH STACK
 
 <table>
 <tr>
 
+<!-- PROGRAMAÇÃO -->
 <td align="center" width="25%">
 
-### 💻 PROGRAMMING
+### 💻 PROGRAMAÇÃO
 
 <br>
 
 <img src="https://skillicons.dev/icons?i=java" width="55">
-
-<br>
-
-Java
-
-<br><br>
-
+&nbsp;
 <img src="https://skillicons.dev/icons?i=javascript" width="55">
-
-<br>
-
-JavaScript
-
-<br><br>
-
+&nbsp;
 <img src="https://skillicons.dev/icons?i=python" width="55">
 
 <br>
 
-Python
+Java &nbsp;&nbsp; JavaScript &nbsp;&nbsp; Python
 
 </td>
 
+<!-- WEB -->
 <td align="center" width="25%">
 
 ### 🌐 WEB
@@ -109,24 +97,19 @@ Python
 <br>
 
 <img src="https://skillicons.dev/icons?i=html" width="55">
-
-<br>
-
-HTML5
-
-<br><br>
-
+&nbsp;
 <img src="https://skillicons.dev/icons?i=css" width="55">
 
 <br>
 
-CSS3
+HTML5 &nbsp;&nbsp;&nbsp; CSS3
 
 </td>
 
+<!-- SISTEMA -->
 <td align="center" width="25%">
 
-### 🖥️ SYSTEM
+### 🖥️ SISTEMA
 
 <br>
 
@@ -138,25 +121,20 @@ Linux
 
 </td>
 
+<!-- FERRAMENTAS -->
 <td align="center" width="25%">
 
-### 🔧 TOOLS
+### 🔧 FERRAMENTAS
 
 <br>
 
 <img src="https://skillicons.dev/icons?i=git" width="55">
-
-<br>
-
-Git
-
-<br><br>
-
+&nbsp;
 <img src="https://skillicons.dev/icons?i=vscode" width="55">
 
 <br>
 
-VS Code
+Git &nbsp;&nbsp;&nbsp; VS Code
 
 </td>
 
@@ -164,10 +142,6 @@ VS Code
 </table>
 
 </div>
-
----
-
-<div align="center">
 
 ## 📈 GITHUB ACTIVITY
 
