@@ -1,14 +1,24 @@
 <div align="center">
 
-<img src="./chess_github_animation.gif" width="750" alt="Animação de xadrez">
+<img src="./chess_github_animation.gif" width="820" alt="Chess Animation">
 
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=1000&color=BD93F9&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Wilson!;T%C3%A9cnico+em+Inform%C3%A1tica;Focado+em+Python+e+Web+Development;Sempre+aprendendo+algo+novo!" alt="Typing SVG">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=25&duration=2800&pause=900&color=BD93F9&center=true&vCenter=true&width=850&lines=Hi%2C+I'm+Wilson!;T%C3%A9cnico+em+Inform%C3%A1tica;Java+%7C+JavaScript+%7C+Python;HTML+%7C+CSS+%7C+Linux;Transformando+ideias+em+c%C3%B3digo." alt="Typing SVG">
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=SEU_USUARIO&style=for-the-badge&color=BD93F9&label=PROFILE+VIEWS">
+<a href="https://github.com/SEU_USUARIO">
+<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=BD93F9">
+</a>
+
+<a href="seu-linkedin">
+<img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=BD93F9">
+</a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=SEU_USUARIO&style=flat-square&color=BD93F9&label=VISITAS">
 
 </div>
 
@@ -16,115 +26,142 @@
 
 <div align="center">
 
-# SOBRE MIM
+## 👨‍💻 SOBRE MIM
 
 </div>
-
-<table align="center">
-<tr>
-<td width="55%" valign="top">
-
-### 🎓 Estudante de Técnico em Informática
-
-Atualmente estou cursando **Técnico em Informática** e desenvolvendo meus conhecimentos em programação e desenvolvimento web.
-
-**Atualmente estudando:**
-
-* Python
-* HTML
-* CSS
-* Lógica de programação
-* Desenvolvimento Web
-
-Meu objetivo é evoluir constantemente através de projetos, prática e novos desafios.
-
-</td>
-
-<td width="45%" align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=BD93F9&icon_color=BD93F9&text_color=C9D1D9" width="100%" alt="GitHub Stats">
-
-</td>
-</tr>
-</table>
-
----
-
-<div align="center">
-
-# TECNOLOGIAS
 
 <table>
 <tr>
 
-<td align="center" width="33%">
+<td width="60%" valign="top">
 
-### Linguagens
+### 🎓 Técnico em Informática
 
-<br>
+Sou estudante de **Técnico em Informática**, interessado em programação, desenvolvimento web e tecnologia.
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+Atualmente venho desenvolvendo meus conhecimentos em:
 
-</td>
+* ☕ **Java**
+* 🟨 **JavaScript**
+* 🐍 **Python**
+* 🌐 **HTML & CSS**
+* 🐧 **Linux**
+* 🔧 **Git & GitHub**
 
-<td align="center" width="33%">
-
-### Front-End
-
-<br>
-
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-
-<br><br>
-
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+Gosto de aprender através da prática, criando projetos e resolvendo problemas de programação.
 
 </td>
 
-<td align="center" width="33%">
+<td width="40%" align="center">
 
-### Ferramentas
-
-<br>
-
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-
-<br><br>
-
-<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white">
+<img src="https://skillicons.dev/icons?i=java,javascript,python,html,css,linux,git,github,vscode&perline=3" width="300" alt="Skills">
 
 </td>
 
 </tr>
 </table>
 
-</div>
-
 ---
 
 <div align="center">
 
-# GITHUB STATS
+## 🧰 TECH STACK
 
 <br>
 
 <table>
 <tr>
 
-<td>
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats">
+<td align="center" width="25%">
+
+### 💻 PROGRAMMING
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=java" width="55">
+
+<br>
+
+Java
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=javascript" width="55">
+
+<br>
+
+JavaScript
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=python" width="55">
+
+<br>
+
+Python
+
 </td>
 
-<td>
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top Languages">
+<td align="center" width="25%">
+
+### 🌐 WEB
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=html" width="55">
+
+<br>
+
+HTML5
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=css" width="55">
+
+<br>
+
+CSS3
+
+</td>
+
+<td align="center" width="25%">
+
+### 🖥️ SYSTEM
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=linux" width="55">
+
+<br>
+
+Linux
+
+</td>
+
+<td align="center" width="25%">
+
+### 🔧 TOOLS
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=git" width="55">
+
+<br>
+
+Git
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=vscode" width="55">
+
+<br>
+
+VS Code
+
 </td>
 
 </tr>
 </table>
-
-<br>
-
-<img src="https://streak-stats.demolab.com?user=SEU_USUARIO&theme=tokyonight&hide_border=true" alt="GitHub Streak">
 
 </div>
 
@@ -132,28 +169,112 @@ Meu objetivo é evoluir constantemente através de projetos, prática e novos de
 
 <div align="center">
 
-# SOCIAL & CONTATO
+## 📈 GITHUB ACTIVITY
+
+<br>
+
+<a href="https://github.com/SEU_USUARIO">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&hide_border=true&bg_color=0D1117&title_color=BD93F9&icon_color=BD93F9&text_color=C9D1D9&include_all_commits=true&count_private=true">
+
+</a>
+
+   
+
+<a href="https://github.com/SEU_USUARIO">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&hide_border=true&bg_color=0D1117&title_color=BD93F9&text_color=C9D1D9&langs_count=8">
+
+</a>
+
+<br><br>
+
+<img src="https://streak-stats.demolab.com?user=SEU_USUARIO&theme=tokyonight&hide_border=true&background=0D1117&ring=BD93F9&fire=BD93F9&currStreakLabel=BD93F9">
+
+</div>
+
+---
+
+<div align="center">
+
+## 🚀 CURRENT FOCUS
+
+<br>
+
+<table>
+<tr>
+
+<td align="center">
+
+<img src="https://skillicons.dev/icons?i=java" width="50">
+
+<br>
+
+**Java**
+
+</td>
+
+<td align="center">
+
+<img src="https://skillicons.dev/icons?i=javascript" width="50">
+
+<br>
+
+**JavaScript**
+
+</td>
+
+<td align="center">
+
+<img src="https://skillicons.dev/icons?i=python" width="50">
+
+<br>
+
+**Python**
+
+</td>
+
+<td align="center">
+
+<img src="https://skillicons.dev/icons?i=linux" width="50">
+
+<br>
+
+**Linux**
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+`Learning → Practicing → Building → Improving`
+
+</div>
+
+---
+
+<div align="center">
+
+## 📫 CONTATO
 
 <br>
 
 <a href="seu-linkedin">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+<img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=BD93F9">
 </a>
-
- 
 
 <a href="mailto:seu-email@email.com">
-<img src="https://img.shields.io/badge/Email-BD93F9?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+<img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=BD93F9">
 </a>
-
-<br><br>
-
-`Code • Learn • Build`
 
 <br><br>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=BD93F9&height=100&section=footer" width="100%">
 
 </div>
+
+
 
 
