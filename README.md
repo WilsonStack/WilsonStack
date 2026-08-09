@@ -284,7 +284,7 @@ VS Code
 
 <br>
 
-<a href="mailto:seu-email@email.com">
+<a href="mailto:fco.wilson11@gmail.com">
 <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=BD93F9" alt="Email">
 </a>
 
