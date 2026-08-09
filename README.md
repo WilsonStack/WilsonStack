@@ -186,27 +186,15 @@ VS Code
 
 ## 📈 GITHUB ACTIVITY
 
-<br>
+<div align="center">
 
-<a href="https://github.com/SEU_USUARIO">
+<img src="https://github-readme-stats.vercel.app/api?username=WilsonStack&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WilsonStack&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&hide_border=true&bg_color=0D1117&title_color=BD93F9&icon_color=BD93F9&text_color=C9D1D9&include_all_commits=true&count_private=true">
-
-</a>
-
-   
-
-<a href="https://github.com/SEU_USUARIO">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&hide_border=true&bg_color=0D1117&title_color=BD93F9&text_color=C9D1D9&langs_count=8">
-
-</a>
-
-<br><br>
-
-<img src="https://streak-stats.demolab.com?user=SEU_USUARIO&theme=tokyonight&hide_border=true&background=0D1117&ring=BD93F9&fire=BD93F9&currStreakLabel=BD93F9">
+<img src="https://streak-stats.demolab.com?user=WilsonStack&theme=tokyonight&hide_border=true&locale=pt_BR" width="60%" />
 
 </div>
+
 
 ---
 
