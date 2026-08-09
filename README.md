@@ -62,86 +62,135 @@ Gosto de aprender através da prática, criando projetos e resolvendo problemas 
 </table>
 
 ---
-
 <div align="center">
 
-## ⚡ TECH STACK
+<h2>⚡ TECH STACK</h2>
 
 <table>
 <tr>
 
-<!-- PROGRAMAÇÃO -->
+<!-- TÍTULOS -->
 <td align="center" width="25%">
+<h3>💻 PROGRAMAÇÃO</h3>
+</td>
 
-### 💻 PROGRAMAÇÃO
+<td align="center" width="25%">
+<h3>🌐 WEB</h3>
+</td>
+
+<td align="center" width="25%">
+<h3>🖥️ SISTEMA</h3>
+</td>
+
+<td align="center" width="25%">
+<h3>🔧 FERRAMENTAS</h3>
+</td>
+
+</tr>
+
+<tr>
+
+<!-- PROGRAMAÇÃO -->
+<td align="center">
 
 <br>
 
-<img src="https://skillicons.dev/icons?i=java" width="55">
-&nbsp;
-<img src="https://skillicons.dev/icons?i=javascript" width="55">
-&nbsp;
-<img src="https://skillicons.dev/icons?i=python" width="55">
+<img src="https://skillicons.dev/icons?i=java" width="68">
 
 <br>
 
-Java &nbsp;&nbsp; JavaScript &nbsp;&nbsp; Python
+Java
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=javascript" width="68">
+
+<br>
+
+JavaScript
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=python" width="68">
+
+<br>
+
+Python
+
+<br><br>
 
 </td>
 
 <!-- WEB -->
-<td align="center" width="25%">
-
-### 🌐 WEB
+<td align="center">
 
 <br>
 
-<img src="https://skillicons.dev/icons?i=html" width="55">
-&nbsp;
-<img src="https://skillicons.dev/icons?i=css" width="55">
+<img src="https://skillicons.dev/icons?i=html" width="68">
 
 <br>
 
-HTML5 &nbsp;&nbsp;&nbsp; CSS3
+HTML5
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=css" width="68">
+
+<br>
+
+CSS3
+
+<br><br>
 
 </td>
 
 <!-- SISTEMA -->
-<td align="center" width="25%">
-
-### 🖥️ SISTEMA
+<td align="center">
 
 <br>
 
-<img src="https://skillicons.dev/icons?i=linux" width="55">
+<img src="https://skillicons.dev/icons?i=linux" width="68">
 
 <br>
 
 Linux
 
+<br><br>
+
 </td>
 
 <!-- FERRAMENTAS -->
-<td align="center" width="25%">
-
-### 🔧 FERRAMENTAS
+<td align="center">
 
 <br>
 
-<img src="https://skillicons.dev/icons?i=git" width="55">
-&nbsp;
-<img src="https://skillicons.dev/icons?i=vscode" width="55">
+<img src="https://skillicons.dev/icons?i=git" width="68">
 
 <br>
 
-Git &nbsp;&nbsp;&nbsp; VS Code
+Git
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=vscode" width="68">
+
+<br>
+
+VS Code
+
+<br><br>
 
 </td>
 
 </tr>
+
 </table>
 
 </div>
+
+---
+
+<div align="center">
 
 ## 📈 GITHUB ACTIVITY
 
@@ -248,6 +297,7 @@ Git &nbsp;&nbsp;&nbsp; VS Code
 <img src="https://capsule-render.vercel.app/api?type=waving&color=BD93F9&height=100&section=footer" width="100%">
 
 </div>
+
 
 
 
