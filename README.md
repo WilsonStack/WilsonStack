@@ -18,23 +18,22 @@
 
 <!-- SEÇÃO: SOBRE MIM -->
 <div align="center">
-  <h2>⚡ RESUMO EXECUTIVO</h2>
+  <h2>⚡ SOBRE MIM</h2>
 </div>
 
 <table>
   <tr>
     <td width="65%" valign="top">
-      <h3>🎓 Estudante de Técnico em Informática — IFCE Campus Maranguape</h3>
+      <h3>🎯 Foco: Licenciatura em Matemática — IME-USP</h3>
       <p>
-        Natural de <b>Maracanaú, Ceará</b>. Estou no curso técnico por obrigação escolar, mas meu foco real é a <b>Matemática pura</b> e a preparação para o IME-USP. Não tenho interesse em programação de software.
+        Natural de <b>Maracanaú, Ceará</b>, sou estudante do IFCE Campus Maranguape. Embora esteja cursando informática por obrigação escolar, o que realmente me move é a <b>Matemática pura</b>, com o objetivo de ingressar na Licenciatura em Matemática no IME-USP.
       </p>
       <p>
-        ♟️ <b>Paixões & Interesses:</b> Sou um jogador ativo de **xadrez** e apaixonado por **literatura**, dedicando meu tempo livre ao tabuleiro e aos livros.
+        ♟️ <b>Outras Paixões:</b> Sou um jogador ativo de **xadrez** e apaixonado por **literatura**, mantendo foco constante na leitura e análise das obras obrigatórias para os vestibulares.
       </p>
       <ul>
-        <li>🎯 <b>Objetivo Principal:</b> Licenciatura em Matemática no IME-USP</li>
-        <li>♟️ <b>Hobby Principal:</b> Jogar Xadrez</li>
-        <li>📚 <b>Leitura:</b> Clássicos e obras literárias</li>
+        <li>📐 <b>Interesses Principais:</b> Matemática, Resolução de Problemas, Xadrez e Literatura</li>
+        <li>📚 <b>Meta Atual:</b> Vestibulares e preparação para o IME-USP</li>
       </ul>
     </td>
     <td width="35%" align="center" valign="middle">
@@ -43,6 +42,8 @@
     </td>
   </tr>
 </table>
+
+---
 
 ---
 
