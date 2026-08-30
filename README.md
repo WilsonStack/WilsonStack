@@ -18,7 +18,7 @@
 
 <!-- SEÇÃO: SOBRE MIM -->
 <div align="center">
-  <h2>⚡ EXECUTIVE SUMMARY</h2>
+  <h2>⚡ RESUMO EXECUTIVO</h2>
 </div>
 
 <table>
@@ -26,20 +26,20 @@
     <td width="65%" valign="top">
       <h3>🎓 Estudante de Técnico em Informática — IFCE Campus Maranguape</h3>
       <p>
-        Desenvolvedor focado em construção de software estruturado, algoritmos eficientes e princípios sólidos de arquitetura de código.
+        Natural de <b>Maracanaú, Ceará</b>. Estou no curso técnico por obrigação escolar, mas meu foco real é a <b>Matemática pura</b> e a preparação para o IME-USP. Não tenho interesse em programação de software.
       </p>
       <p>
-        🎯 <b>Core Expertise:</b> Desenvolvimento em <b>Java</b>, modelagem de sistemas com <b>Programação Orientada a Objetos (POO)</b>, estruturas de dados avançadas e versionamento semântico contínuo.
+        ♟️ <b>Paixões & Interesses:</b> Sou um jogador ativo de **xadrez** e apaixonado por **literatura**, dedicando meu tempo livre ao tabuleiro e aos livros.
       </p>
       <ul>
-        <li>🚀 <b>Linguagens & Ecossistema:</b> Java, JavaScript, Python</li>
-        <li>💻 <b>Web & Infraestrutura:</b> HTML5, CSS3, Linux (Bash Scripting)</li>
-        <li>🛠️ <b>Ambiente de Desenvolvimento:</b> IntelliJ IDEA, VS Code, Git CLI, GitHub</li>
+        <li>🎯 <b>Objetivo Principal:</b> Licenciatura em Matemática no IME-USP</li>
+        <li>♟️ <b>Hobby Principal:</b> Jogar Xadrez</li>
+        <li>📚 <b>Leitura:</b> Clássicos e obras literárias</li>
       </ul>
     </td>
     <td width="35%" align="center" valign="middle">
       <br>
-      <img src="https://skillicons.dev/icons?i=java,js,python,html,css,linux,git,github,idea,vscode&perline=3" width="260" alt="Tech Stack Icons">
+      <img src="https://skillicons.dev/icons?i=java,python,linux,git,github,idea&perline=3" width="260" alt="Tech Stack Icons">
     </td>
   </tr>
 </table>
