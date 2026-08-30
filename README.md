@@ -80,16 +80,19 @@
 
 ---
 
-<!-- SEÇÃO: ENGENHARIA DE SOFTWARE & ARQUITETURA -->
+<!-- SEÇÃO: ESTATÍSTICAS E ATIVIDADE -->
 <div align="center">
-  <h2>⚙️ SOFTWARE ARCHITECTURE & PARADIGMS</h2>
+  <h2>🔥 DEV ACTIVITY & STATS</h2>
   <br>
 
-  <a href="https://github.com/WilsonStack">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2800&pause=1000&color=BD93F9&background=10141E&center=true&vCenter=true&width=880&height=110&lines=OOP_PARADIGM+%3D+%7B+Encapsulation%2C+Abstraction%2C+Inheritance%2C+Polymorphism+%7D%3B;DATA_STRUCTURES+%3D+%5B%22Arrays%22%2C+%22ArrayList%22%2C+%22Collections%22%5D%3B;SOFTWARE_METRICS+%3D+%7B+Clean_Code%2C+Semantic_Versioning%2C+CRUD_Pattern+%7D%3B" alt="Engineering Logic" />
-  </a>
+  <p align="center">
+    <!-- Card de Linguagens Mais Usadas -->
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WilsonStack&layout=compact&theme=tokyonight&hide_border=true&title_color=BD93F9&text_color=A9B1D6&bg_color=10141E" width="48%" alt="Top Languages" />
+    
+    <!-- Card de Ofensiva (Streak) de Commits -->
+    <img src="https://streak-stats.demolab.com?user=WilsonStack&theme=tokyonight&hide_border=true&locale=pt_BR&background=10141E&ring=BD93F9&fire=BD93F9&currStreakNum=A9B1D6&sideLabels=A9B1D6&dates=A9B1D6" width="48%" alt="GitHub Streak" />
+  </p>
 </div>
-
 ---
 
 <!-- SEÇÃO: REPOSITÓRIOS EM DESTAQUE -->
