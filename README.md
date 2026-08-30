@@ -5,9 +5,9 @@
 
   <br><br>
 
-  <!-- Banner Dinâmico com Efeito de Digitação -->
+  <!-- Banner Dinâmico em Terminal -->
   <a href="https://github.com/WilsonStack">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2500&pause=1000&color=BD93F9&center=true&vCenter=true&width=900&lines=System.out.println(%22Hi%2C+I'm+Wilson!%22)%3B;T%C3%A9cnico+em+Inform%C3%A1tica+%40+IFCE+Maranguape;Software+Development+%7C+Java+%26+POO;Building.+Learning.+Improving." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&duration=2400&pause=1000&color=BD93F9&center=true&vCenter=true&width=900&lines=class+Developer+%7B+String+name+%3D+%22Wilson%22%3B+%7D;T%C3%A9cnico+em+Inform%C3%A1tica+%40+IFCE+Maranguape;Software+Engineering+%7C+Java+%26+POO;Building.+Learning.+Evolving." alt="Typing SVG" />
   </a>
 
   <br><br>
@@ -20,7 +20,7 @@
     <img src="https://img.shields.io/badge/Gmail-10141E?style=for-the-badge&logo=gmail&logoColor=BD93F9" alt="Email">
   </a>
   <a href="#">
-    <img src="https://img.shields.io/badge/Status-Building_%26_Learning-10141E?style=for-the-badge&logo=codeforces&logoColor=BD93F9" alt="Status">
+    <img src="https://img.shields.io/badge/Location-Cear%C3%A1%2C_Brazil-10141E?style=for-the-badge&logo=googlemaps&logoColor=BD93F9" alt="Location">
   </a>
 
 </div>
@@ -31,31 +31,28 @@
 
 <!-- SEÇÃO: SOBRE MIM -->
 <div align="center">
-  <h2>⚡ ABOUT ME</h2>
+  <h2>⚡ EXECUTIVE SUMMARY</h2>
 </div>
 
 <table>
   <tr>
-    <td width="60%" valign="top">
+    <td width="65%" valign="top">
       <h3>🎓 Estudante de Técnico em Informática — IFCE Campus Maranguape</h3>
       <p>
-        Entusiasta da tecnologia e do desenvolvimento de software focado na construção de aplicações eficientes, limpas e escaláveis.
+        Desenvolvedor focado em construção de software estruturado, algoritmos eficientes e princípios sólidos de arquitetura de código.
       </p>
       <p>
-        🎯 <b>Foco Atual:</b> Domínio avançado em <b>Programação Orientada a Objetos (POO)</b> com <b>Java</b>, algoritmos, estruturas de dados e práticas modernas de versionamento (Git/GitHub).
+        🎯 <b>Core Expertise:</b> Desenvolvimento em <b>Java</b>, modelagem de sistemas com <b>Programação Orientada a Objetos (POO)</b>, estruturas de dados avançadas e versionamento semântico contínuo.
       </p>
       <ul>
-        <li>🚀 <b>Linguagens:</b> Java, JavaScript, Python</li>
-        <li>💻 <b>Web & Sistemas:</b> HTML5, CSS3, Linux, Bash Scripting</li>
-        <li>🛠️ <b>Ferramentas & IDEs:</b> IntelliJ IDEA, VS Code, Git, GitHub CLI</li>
+        <li>🚀 <b>Linguagens & Ecossistema:</b> Java, JavaScript, Python</li>
+        <li>💻 <b>Web & Infraestrutura:</b> HTML5, CSS3, Linux (Bash Scripting)</li>
+        <li>🛠️ <b>Ambiente de Desenvolvimento:</b> IntelliJ IDEA, VS Code, Git CLI, GitHub</li>
       </ul>
-      <p>
-        <i>"A melhor maneira de prever o futuro é inventá-lo através do código."</i>
-      </p>
     </td>
-    <td width="40%" align="center" valign="middle">
+    <td width="35%" align="center" valign="middle">
       <br>
-      <img src="https://skillicons.dev/icons?i=java,js,python,html,css,linux,git,github,idea,vscode&perline=3" width="280" alt="Tech Stack Icons">
+      <img src="https://skillicons.dev/icons?i=java,js,python,html,css,linux,git,github,idea,vscode&perline=3" width="260" alt="Tech Stack Icons">
     </td>
   </tr>
 </table>
@@ -64,10 +61,9 @@
 
 <!-- SEÇÃO: TECH STACK -->
 <div align="center">
-  <h2>🛠️ TECH STACK & TOOLS</h2>
+  <h2>🛠️ TECH STACK & ECOSYSTEM</h2>
   <br>
 
-  <!-- Badges Profissionais das Tecnologias -->
   <p>
     <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
@@ -81,39 +77,41 @@
 
 ---
 
-<!-- SEÇÃO: TERMINAL CODE QUOTE (SUBSTITUIÇÃO DA ANÁLISE) -->
+<!-- SEÇÃO: ENGENHARIA DE SOFTWARE & ARQUITETURA -->
 <div align="center">
-  <h2>💻 DEV PHILOSOPHY</h2>
+  <h2>⚙️ SOFTWARE ARCHITECTURE & PARADIGMS</h2>
   <br>
 
   <a href="https://github.com/WilsonStack">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=BD93F9&background=10141E&center=true&vCenter=true&width=850&height=100&lines=while+(learning)+%7B+code()%3B+build()%3B+improve()%3B+%7D;System.out.println(%22Clean+code+always+wins.%22)%3B;Java+%2B+Data+Structures+%2B+OOP%3B" alt="Dev Quote" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2800&pause=1000&color=BD93F9&background=10141E&center=true&vCenter=true&width=880&height=110&lines=OOP_PARADIGM+%3D+%7B+Encapsulation%2C+Abstraction%2C+Inheritance%2C+Polymorphism+%7D%3B;DATA_STRUCTURES+%3D+%5B%22Arrays%22%2C+%22ArrayList%22%2C+%22Collections%22%5D%3B;SOFTWARE_METRICS+%3D+%7B+Clean_Code%2C+Semantic_Versioning%2C+CRUD_Pattern+%7D%3B" alt="Engineering Logic" />
   </a>
 </div>
 
 ---
 
-<!-- SEÇÃO: PROJETOS EM DESTAQUE -->
+<!-- SEÇÃO: REPOSITÓRIOS EM DESTAQUE -->
 <div align="center">
-  <h2>📌 FEATURED PROJECTS</h2>
+  <h2>🚀 FEATURED REPOSITORIES & SYSTEMS</h2>
   <br>
 
   <table>
     <tr>
-      <td width="50%" align="center">
-        <h3>📇 Agenda de Contatos</h3>
-        <p>Projeto incremental em Java construído para demonstrar a evolução de estruturas de dados: desde variáveis simples até coleções dinâmicas com CRUD completo.</p>
-        <p><code>Java</code> • <code>POO</code> • <code>ArrayList</code> • <code>Git Tags</code></p>
+      <td width="50%" align="center" valign="top">
+        <h3>📇 Agenda_contatos</h3>
+        <p>Projeto Java com arquitetura incremental demonstrando a evolução de estruturas de dados: de variáveis simples a coleções dinâmicas (<code>ArrayList</code>) com implementação completa de CRUD.</p>
+        <p><code>Java</code> • <code>POO</code> • <code>Collections</code> • <code>Git Tags (v0.0.0 → v0.3.0)</code></p>
+        <br>
         <a href="https://github.com/WilsonStack/Agenda_contatos">
-          <img src="https://img.shields.io/badge/Ver_Reposit%C3%B3rio-0D1117?style=for-the-badge&logo=github&logoColor=BD93F9" alt="Agenda Repo">
+          <img src="https://img.shields.io/badge/View_Repository-0D1117?style=for-the-badge&logo=github&logoColor=BD93F9" alt="Agenda Repo">
         </a>
       </td>
-      <td width="50%" align="center">
-        <h3>🚀 IFCE Lab & Práticas</h3>
-        <p>Repositório com exercícios, soluções de lógica, manipulação de arquivos e pequenos projetos desenvolvidos durante o curso no IFCE Maranguape.</p>
-        <p><code>Java</code> • <code>Linux</code> • <code>Git Flow</code></p>
+      <td width="50%" align="center" valign="top">
+        <h3>💻 Academic_Labs_IFCE</h3>
+        <p>Laboratório de desenvolvimento com soluções de algoritmos, estrutura de dados, automação e práticas de programação orientada a objetos desenvolvidas no IFCE Maranguape.</p>
+        <p><code>Java</code> • <code>Data Structures</code> • <code>Linux</code> • <code>Git Flow</code></p>
+        <br>
         <a href="https://github.com/WilsonStack">
-          <img src="https://img.shields.io/badge/Ver_Projetos-0D1117?style=for-the-badge&logo=github&logoColor=BD93F9" alt="Ver Projetos">
+          <img src="https://img.shields.io/badge/View_Projects-0D1117?style=for-the-badge&logo=github&logoColor=BD93F9" alt="Ver Projetos">
         </a>
       </td>
     </tr>
@@ -122,9 +120,9 @@
 
 ---
 
-<!-- SEÇÃO: ÁREAS DE ESTUDO -->
+<!-- SEÇÃO: ROADMAP DE APRENDIZADO -->
 <div align="center">
-  <h2>🎯 CURRENT LEARNING PATH</h2>
+  <h2>🎯 DOMAIN & ROADMAP</h2>
   <br>
 
   <table>
@@ -132,7 +130,7 @@
       <td align="center" width="25%">
         <img src="https://skillicons.dev/icons?i=java" width="48"><br><br>
         <b>Java & POO</b><br>
-        <sub>Classes, Encapsulamento, Coleções & Arquitetura</sub>
+        <sub>Classes, Encapsulamento, Coleções & Padrões</sub>
       </td>
       <td align="center" width="25%">
         <img src="https://skillicons.dev/icons?i=git" width="48"><br><br>
@@ -141,13 +139,13 @@
       </td>
       <td align="center" width="25%">
         <img src="https://skillicons.dev/icons?i=js" width="48"><br><br>
-        <b>Web Dev</b><br>
-        <sub>Lógica Frontend, DOM & Integrações</sub>
+        <b>Web Development</b><br>
+        <sub>Lógica Frontend, DOM & APIs</sub>
       </td>
       <td align="center" width="25%">
         <img src="https://skillicons.dev/icons?i=linux" width="48"><br><br>
-        <b>Linux Environment</b><br>
-        <sub>Terminal, Gerenciamento e Bash Scripting</sub>
+        <b>Linux Ecosystem</b><br>
+        <sub>Bash, Terminal & Produtividade</sub>
       </td>
     </tr>
   </table>
@@ -155,9 +153,9 @@
 
 ---
 
-<!-- SEÇÃO: RODAPÉ E CONTATO -->
+<!-- RODAPÉ -->
 <div align="center">
-  <h2>📫 CONNECT WITH ME</h2>
+  <h2>📫 CONNECT & CONTACT</h2>
   <br>
 
   <a href="mailto:fco.wilson11@gmail.com">
@@ -165,7 +163,7 @@
   </a>
 
   <br><br>
-  <code>Code • Learn • Build • Repeat</code>
+  <code>Code • Learn • Build • Evolve</code>
   <br><br>
 
   <img src="https://capsule-render.vercel.app/api?type=waving&color=BD93F9&height=100&section=footer" width="100%">
