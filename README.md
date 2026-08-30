@@ -1,155 +1,148 @@
 <div align="center">
 
-<img src="./chess_github_animation.gif" width="100%" alt="Chess Animation">
+  <!-- Animação do Xadrez -->
+  <img src="./chess_github_animation.gif" width="100%" alt="Chess Animation">
 
-<br><br>
+  <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2800&pause=900&color=BD93F9&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Wilson!;T%C3%A9cnico+em+Inform%C3%A1tica+%7C+IFCE;Java+%7C+POO+%7C+JavaScript+%7C+Python;Web+Development+%7C+Linux;Building.+Learning.+Improving." alt="Typing SVG">
+  <!-- Banner Dinâmico com Efeito de Digitação -->
+  <a href="https://github.com/WilsonStack">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2500&pause=1000&color=BD93F9&center=true&vCenter=true&width=900&lines=System.out.println(%22Hi%2C+I'm+Wilson!%22)%3B;T%C3%A9cnico+em+Inform%C3%A1tica+%40+IFCE+Maranguape;Software+Development+%7C+Java+%26+POO;Building.+Learning.+Improving." alt="Typing SVG" />
+  </a>
 
-<br><br>
+  <br><br>
 
-<a href="https://github.com/WilsonStack">
-<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=BD93F9" alt="GitHub">
-</a>
-<a href="mailto:fco.wilson11@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=BD93F9" alt="Email">
-</a>
+  <!-- Badges de Status / Redes -->
+  <a href="https://github.com/WilsonStack">
+    <img src="https://img.shields.io/badge/GitHub-10141E?style=for-the-badge&logo=github&logoColor=BD93F9" alt="GitHub">
+  </a>
+  <a href="mailto:fco.wilson11@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-10141E?style=for-the-badge&logo=gmail&logoColor=BD93F9" alt="Email">
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Status-Building_%26_Learning-10141E?style=for-the-badge&logo=codeforces&logoColor=BD93F9" alt="Status">
+  </a>
 
 </div>
+
+<br>
 
 ---
 
+<!-- SEÇÃO: SOBRE MIM -->
 <div align="center">
-
-## 👨‍💻 SOBRE MIM
-
+  <h2>⚡ ABOUT ME</h2>
 </div>
 
 <table>
-<tr>
-
-<td width="60%" valign="top">
-
-### 🎓 Técnico em Informática — IFCE Campus Maranguape
-
-Sou estudante do curso **Técnico em Informática** no IFCE, apaixonado por tecnologia, desenvolvimento de software e resolução de problemas.
-
-Atualmente, meu foco principal está no aprendizado de **Programação Orientada a Objetos (POO)** com **Java** e na criação de aplicações web.
-
-* ☕ **Linguagens:** Java, JavaScript, Python
-* 🌐 **Web:** HTML5, CSS3
-* 🐧 **Ambiente:** Linux, Bash, VS Code, IntelliJ IDEA
-* 🔧 **Controle de Versão:** Git & GitHub
-
-`Aprender na prática → Construir projetos → Evoluir continuamente`
-
-</td>
-
-<td width="40%" align="center">
-
-<br><br>
-<img src="https://skillicons.dev/icons?i=java,js,python,html,css,linux,git,github,idea,vscode&perline=3" width="280" alt="Skills">
-
-</td>
-
-</tr>
+  <tr>
+    <td width="60%" valign="top">
+      <h3>🎓 Estudante de Técnico em Informática — IFCE Campus Maranguape</h3>
+      <p>
+        Entusiasta da tecnologia e do desenvolvimento de software focado na construção de aplicações eficientes, limpas e escaláveis.
+      </p>
+      <p>
+        🎯 <b>Foco Atual:</b> Domínio avançado em <b>Programação Orientada a Objetos (POO)</b> com <b>Java</b>, algoritmos, estruturas de dados e práticas modernas de versionamento (Git/GitHub).
+      </p>
+      <ul>
+        <li>🚀 <b>Linguagens:</b> Java, JavaScript, Python</li>
+        <li>💻 <b>Web & Sistemas:</b> HTML5, CSS3, Linux, Bash Scripting</li>
+        <li>🛠️ <b>Ferramentas & IDEs:</b> IntelliJ IDEA, VS Code, Git, GitHub CLI</li>
+      </ul>
+      <p>
+        <i>"A melhor maneira de prever o futuro é inventá-lo através do código."</i>
+      </p>
+    </td>
+    <td width="40%" align="center" valign="middle">
+      <br>
+      <img src="https://skillicons.dev/icons?i=java,js,python,html,css,linux,git,github,idea,vscode&perline=3" width="280" alt="Tech Stack Icons">
+    </td>
+  </tr>
 </table>
 
 ---
 
+<!-- SEÇÃO: TECH STACK -->
 <div align="center">
+  <h2>🛠️ TECH STACK & TOOLS</h2>
+  <br>
 
-## 🛠️ TECH STACK
-
-<br>
-
-<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-
+  <!-- Badges Profissionais das Tecnologias -->
+  <p>
+    <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  </p>
 </div>
 
 ---
 
+<!-- SEÇÃO: ESTATÍSTICAS DO GITHUB -->
 <div align="center">
+  <h2>📈 GITHUB ANALYTICS</h2>
+  <br>
 
-## 📈 GITHUB STATS
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=WilsonStack&show_icons=true&theme=tokyonight&hide_border=true&title_color=BD93F9&icon_color=BD93F9&text_color=A9B1D6&bg_color=0D1117" width="48%" alt="Wilson's GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WilsonStack&layout=compact&theme=tokyonight&hide_border=true&title_color=BD93F9&text_color=A9B1D6&bg_color=0D1117" width="48%" alt="Top Languages" />
+  </p>
 
-<br>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=WilsonStack&show_icons=true&theme=tokyonight&hide_border=true&title_color=BD93F9&icon_color=BD93F9" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WilsonStack&layout=compact&theme=tokyonight&hide_border=true&title_color=BD93F9" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=WilsonStack&theme=tokyonight&hide_border=true&locale=pt_BR&background=0D1117&ring=BD93F9&fire=BD93F9" width="60%" />
-</p>
-
+  <p align="center">
+    <img src="https://streak-stats.demolab.com?user=WilsonStack&theme=tokyonight&hide_border=true&locale=pt_BR&background=0D1117&ring=BD93F9&fire=BD93F9&currStreakLabel=BD93F9" width="60%" alt="GitHub Streak" />
+  </p>
 </div>
 
 ---
 
+<!-- SEÇÃO: ÁREAS DE ESTUDO -->
 <div align="center">
+  <h2>🎯 CURRENT LEARNING PATH</h2>
+  <br>
 
-## 🎯 FOCO ATUAL
-
-<br>
-
-<table>
-<tr>
-
-<td align="center" width="25%">
-<img src="https://skillicons.dev/icons?i=java" width="45"><br>
-<b>Java & POO</b><br>
-<sub>Estruturas de Dados e Orientação a Objetos</sub>
-</td>
-
-<td align="center" width="25%">
-<img src="https://skillicons.dev/icons?i=git" width="45"><br>
-<b>Git & GitHub</b><br>
-<sub>Desenvolvimento Incremental & Versionamento</sub>
-</td>
-
-<td align="center" width="25%">
-<img src="https://skillicons.dev/icons?i=js" width="45"><br>
-<b>JavaScript</b><br>
-<sub>Lógica e Manipulação do DOM</sub>
-</td>
-
-<td align="center" width="25%">
-<img src="https://skillicons.dev/icons?i=linux" width="45"><br>
-<b>Linux</b><br>
-<sub>Terminal, Bash e Produtividade</sub>
-</td>
-
-</tr>
-</table>
-
+  <table>
+    <tr>
+      <td align="center" width="25%">
+        <img src="https://skillicons.dev/icons?i=java" width="48"><br><br>
+        <b>Java & POO</b><br>
+        <sub>Classes, Encapsulamento, Coleções & Arquitetura</sub>
+      </td>
+      <td align="center" width="25%">
+        <img src="https://skillicons.dev/icons?i=git" width="48"><br><br>
+        <b>Versionamento</b><br>
+        <sub>Git Flow, Commits Semânticos & Releases</sub>
+      </td>
+      <td align="center" width="25%">
+        <img src="https://skillicons.dev/icons?i=js" width="48"><br><br>
+        <b>Web Dev</b><br>
+        <sub>Lógica Frontend, DOM & Integrações</sub>
+      </td>
+      <td align="center" width="25%">
+        <img src="https://skillicons.dev/icons?i=linux" width="48"><br><br>
+        <b>Linux Environment</b><br>
+        <sub>Terminal, Gerenciamento e Bash Scripting</sub>
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
 
+<!-- SEÇÃO: RODAPÉ E CONTATO -->
 <div align="center">
+  <h2>📫 CONNECT WITH ME</h2>
+  <br>
 
-## 📫 CONTATO & REDES
+  <a href="mailto:fco.wilson11@gmail.com">
+    <img src="https://img.shields.io/badge/Email-fco.wilson11%40gmail.com-10141E?style=for-the-badge&logo=gmail&logoColor=BD93F9" alt="Email">
+  </a>
 
-<br>
+  <br><br>
+  <code>Code • Learn • Build • Repeat</code>
+  <br><br>
 
-<a href="mailto:fco.wilson11@gmail.com">
-<img src="https://img.shields.io/badge/Email-fco.wilson11%40gmail.com-0D1117?style=for-the-badge&logo=gmail&logoColor=BD93F9" alt="Email">
-</a>
-
-<br><br>
-
-<code>Code • Learn • Build • Repeat</code>
-
-<br><br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=BD93F9&height=100&section=footer" width="100%">
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=BD93F9&height=100&section=footer" width="100%">
 </div>
