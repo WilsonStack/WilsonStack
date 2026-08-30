@@ -80,18 +80,18 @@
 
 ---
 
-<!-- SEÇÃO: ESTATÍSTICAS E ATIVIDADE -->
+<!-- SEÇÃO: ACTIVITY WAVES & ACHIEVEMENTS -->
 <div align="center">
-  <h2>🔥 DEV ACTIVITY & STATS</h2>
+  <h2>🌊 CODE ACTIVITY & ACHIEVEMENTS</h2>
   <br>
 
-  <p align="center">
-    <!-- Card de Linguagens Mais Usadas -->
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WilsonStack&layout=compact&theme=tokyonight&hide_border=true&title_color=BD93F9&text_color=A9B1D6&bg_color=10141E" width="48%" alt="Top Languages" />
-    
-    <!-- Card de Ofensiva (Streak) de Commits -->
-    <img src="https://streak-stats.demolab.com?user=WilsonStack&theme=tokyonight&hide_border=true&locale=pt_BR&background=10141E&ring=BD93F9&fire=BD93F9&currStreakNum=A9B1D6&sideLabels=A9B1D6&dates=A9B1D6" width="48%" alt="GitHub Streak" />
-  </p>
+  <!-- Gráfico Dinâmico de Commits (Estilo Neon) -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=WilsonStack&bg_color=10141E&color=BD93F9&line=BD93F9&point=FFFFFF&area=true&hide_border=true&title_color=FFFFFF" width="100%" alt="Activity Graph" />
+
+  <br><br>
+
+  <!-- Troféus Desbloqueáveis do GitHub -->
+  <img src="https://github-profile-trophy.vercel.app/?username=WilsonStack&theme=dracula&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" />
 </div>
 ---
 
