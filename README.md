@@ -33,9 +33,9 @@
   <h2>📌 PERFIL PROFISSIONAL</h2>
 </div>
 
-Sou estudante do curso **Técnico em Informática no IFCE Campus Maranguape**, com foco em desenvolver uma base estrutural forte em programação. Meu objetivo atual é dominar a lógica por trás dos sistemas e compreender o funcionamento essencial do código antes de avançar para ferramentas complexas.
+Sou estudante do curso **Técnico em Informática no IFCE Campus Maranguape**, com foco em desenvolver uma base estrutural forte em programação. Meu objetivo atual é dominar a lógica por trás dos sistemas e compreender o funcionamento essencial do código antes de avançar para frameworks complexos.
 
-Priorizo o aprendizado prático, a escrita de código organizado e a utilização de boas práticas de versionamento desde o início da minha formação.
+Priorizo o aprendizado prático, a escrita de código organizado e a utilização de boas ferramentas de desenvolvimento desde o início da minha formação.
 
 ---
 
@@ -70,25 +70,52 @@ Priorizo o aprendizado prático, a escrita de código organizado e a utilizaçã
 ---
 
 <div align="center">
-  <h2>🚀 PROJETO EM DESTAQUE</h2>
+  <h2>⚙️ METODOLOGIA DE ESTUDO</h2>
   <br>
 </div>
 
-<!-- Tabela centralizada para dar destaque único ao projeto -->
-<table align="center" width="85%">
+<table width="100%">
   <tr>
-    <td align="center" valign="top" style="padding: 20px;">
+    <td width="50%" align="center" valign="top">
+      <h3>Estruturação Lógica</h3>
+      <p>Estudo contínuo de algoritmos, tipos de dados e controle de fluxo, garantindo que cada linha de código escrita em meus projetos tenha um propósito claro.</p>
+    </td>
+    <td width="50%" align="center" valign="top">
+      <h3>Versionamento de Código</h3>
+      <p>Uso prático do <b>Git</b> e <b>GitHub</b> para documentar a evolução de cada etapa do aprendizado, mantendo o histórico de alterações organizado e acessível.</p>
+    </td>
+  </tr>
+</table>
+
+---
+
+<div align="center">
+  <h2>🚀 PROJETOS E LABORATÓRIO</h2>
+  <br>
+</div>
+
+<table width="100%">
+  <tr>
+    <td width="50%" align="center" valign="top">
       <h3>📇 Agenda_contatos</h3>
-      <br>
-      <p>Projeto incremental construído em Java para praticar e consolidar a evolução de estruturas de armazenamento de dados.</p>
-      <p>Acompanha a transição do uso de variáveis primitivas e vetores de tamanho fixo para a implementação de coleções dinâmicas (<code>ArrayList</code>), aplicando as operações fundamentais de um CRUD e controle de versão através de Git Tags.</p>
-      <br>
+      <p>Projeto de estudos focado na evolução do armazenamento de dados em Java: entendendo a transição de variáveis simples para vetores e a introdução ao uso de <code>ArrayList</code>.</p>
       <p>
-        <kbd>&nbsp;Java&nbsp;</kbd> &nbsp; <kbd>&nbsp;POO&nbsp;</kbd> &nbsp; <kbd>&nbsp;Collections (ArrayList)&nbsp;</kbd> &nbsp; <kbd>&nbsp;Git Tags&nbsp;</kbd>
+        <kbd>Java</kbd> <kbd>Coleções</kbd> <kbd>Lógica</kbd>
       </p>
       <br>
       <a href="https://github.com/WilsonStack/Agenda_contatos">
-        <img src="https://img.shields.io/badge/Acessar_Reposit%C3%B3rio-10141E?style=for-the-badge&logo=github&logoColor=BD93F9" alt="Agenda Repo">
+        <img src="https://img.shields.io/badge/Ver_Reposit%C3%B3rio-10141E?style=for-the-badge&logo=github&logoColor=BD93F9" alt="Agenda Repo">
+      </a>
+    </td>
+    <td width="50%" align="center" valign="top">
+      <h3>💻 Práticas_Acadêmicas</h3>
+      <p>Repositório dedicado aos exercícios, desafios de lógica e pequenos sistemas construídos durante as aulas e atividades do curso técnico no IFCE.</p>
+      <p>
+        <kbd>Java</kbd> <kbd>Algoritmos</kbd> <kbd>Fundamentos</kbd>
+      </p>
+      <br>
+      <a href="https://github.com/WilsonStack">
+        <img src="https://img.shields.io/badge/Ver_Projetos-10141E?style=for-the-badge&logo=github&logoColor=BD93F9" alt="Labs">
       </a>
     </td>
   </tr>
@@ -109,4 +136,3 @@ Priorizo o aprendizado prático, a escrita de código organizado e a utilizaçã
   <!-- Animação do rodapé -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=BD93F9&height=120&section=footer" width="100%">
 </div>
-
