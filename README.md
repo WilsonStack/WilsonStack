@@ -83,31 +83,7 @@
 
 ---
 
-<!-- SEÇÃO: PROJETO PRINCIPAL EM DESTAQUE -->
-<div align="center">
-  <h2>🚀 FEATURED MAIN SYSTEM</h2>
-  <br>
 
-  <table width="100%">
-    <tr>
-      <td align="center" valign="top">
-        <h2>📇 Agenda de Contatos (CRUD Completo)</h2>
-        <p>
-          Sistema modular em Java desenvolvido em etapas incrementais (de <code>v0.0.0</code> até <code>v0.3.0</code>) para cumprir as demandas acadêmicas do curso técnico.
-          Demonstra a evolução estrutural desde variáveis primitivas e Arrays fixos até coleções dinâmicas avançadas (<code>ArrayList</code>) 
-          e implementação completa de operações CRUD com versionamento semântico via Git Tags.
-        </p>
-        <p>
-          <code>Java</code> • <code>POO</code> • <code>ArrayList</code> • <code>Git Tags</code> • <code>CRUD</code>
-        </p>
-        <br>
-        <a href="https://github.com/WilsonStack/Agenda_contatos">
-          <img src="https://img.shields.io/badge/View_Main_Repository-0D1117?style=for-the-badge&logo=github&logoColor=BD93F9" alt="Agenda Repo">
-        </a>
-      </td>
-    </tr>
-  </table>
-</div>
 
 ---
 
