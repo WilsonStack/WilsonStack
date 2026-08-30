@@ -42,46 +42,42 @@
     <td width="65%" valign="top">
       <h3>🎓 Estudante de Técnico em Informática — IFCE Campus Maranguape</h3>
       <p>
-        Sou estudante do curso Técnico Integrado em Informática no IFCE Maranguape. Foco meus estudos em vestibular e xadrez.
+        Natural de <b>Maracanaú, Ceará</b>. Sou estudante do curso Técnico Integrado em Informática no IFCE Maranguape, focado em vestibular e xadrez.
       </p>
       <p>
         🎯 <b>Core Expertise:</b> Desenvolvimento em <b>Java</b>, modelagem de sistemas com <b>Programação Orientada a Objetos (POO)</b>, estruturas de dados dinâmicas e versionamento contínuo.
       </p>
       <ul>
-        <li>🚀 <b>Linguagens & Ecossistema:</b> Java, JavaScript, Python</li>
-        <li>💻 <b>Web & Infraestrutura:</b> HTML, CSS, Linux (Bash Scripting)</li>
+        <li>🚀 <b>Linguagens e Ecossistema:</b> Java, JavaScript, Python, SQL</li>
+        <li>💻 <b>Web e Infraestrutura:</b> HTML, CSS, Linux (Scripting Bash)</li>
         <li>🛠️ <b>Ambiente de Desenvolvimento:</b> IntelliJ IDEA, VS Code, Git CLI, GitHub</li>
       </ul>
     </td>
     <td width="35%" align="center" valign="middle">
       <br>
-      <img src="https://skillicons.dev/icons?i=java,js,python,html,css,linux,git,github,idea,vscode&perline=3" width="260" alt="Tech Stack Icons">
+      <img src="https://skillicons.dev/icons?i=java,js,python,html,css,linux,git,github,idea,vscode,mysql&perline=3" width="260" alt="Tech Stack Icons">
     </td>
   </tr>
 </table>
 
 ---
 
-
----
-
 <!-- SEÇÃO: TECH STACK -->
 <div align="center">
-  <h2>🛠️ TECH STACK & ECOSYSTEM</h2>
+  <h2>🛠️ CONJUNTO TECNOLÓGICO E ECOSSISTEMA</h2>
   <br>
 
   <p>
     <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+    <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
     <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
     <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   </p>
 </div>
-
----
 
 
 
