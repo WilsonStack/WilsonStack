@@ -81,27 +81,14 @@
 
 ---
 
-<!-- SEÇÃO: ENGENHARIA DE SOFTWARE & BOAS PRÁTICAS (SUBSTITUIÇÃO DA ANÁLISE) -->
+<!-- SEÇÃO: TERMINAL CODE QUOTE (SUBSTITUIÇÃO DA ANÁLISE) -->
 <div align="center">
-  <h2>⚙️ CODE ARCHITECTURE & PRACTICES</h2>
+  <h2>💻 DEV PHILOSOPHY</h2>
   <br>
 
-  <table>
-    <tr>
-      <td width="33%" align="center">
-        <h3>🔁 Versionamento Incremental</h3>
-        <p>Evolução contínua de projetos através de versões bem documentadas e tags semânticas no Git (<code>v0.0.0</code> → <code>v0.3.0</code>).</p>
-      </td>
-      <td width="33%" align="center">
-        <h3>📂 Código Limpo & POO</h3>
-        <p>Aplicação de conceitos como encapsulamento, coleções dinâmicas (<code>ArrayList</code>) e organização por pacotes Java.</p>
-      </td>
-      <td width="33%" align="center">
-        <h3>🧩 Padrão CRUD</h3>
-        <p>Desenvolvimento completo de operações fundamentais: Create (<code>add</code>), Read (<code>get</code>), Update (<code>set</code>) e Delete (<code>remove</code>).</p>
-      </td>
-    </tr>
-  </table>
+  <a href="https://github.com/WilsonStack">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=BD93F9&background=10141E&center=true&vCenter=true&width=850&height=100&lines=while+(learning)+%7B+code()%3B+build()%3B+improve()%3B+%7D;System.out.println(%22Clean+code+always+wins.%22)%3B;Java+%2B+Data+Structures+%2B+OOP%3B" alt="Dev Quote" />
+  </a>
 </div>
 
 ---
