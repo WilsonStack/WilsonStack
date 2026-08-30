@@ -24,24 +24,43 @@
 <table>
   <tr>
     <td width="65%" valign="top">
-      <h3>🎯 Foco: Licenciatura em Matemática — IME-USP</h3>
+      <h3>🎓 Estudante de Técnico em Informática — IFCE Campus Maranguape</h3>
       <p>
-        Natural de <b>Maracanaú, Ceará</b>, sou estudante do IFCE Campus Maranguape. Embora esteja cursando informática por obrigação escolar, o que realmente me move é a <b>Matemática pura</b>, com o objetivo de ingressar na Licenciatura em Matemática no IME-USP.
+        Natural de <b>Maracanaú, Ceará</b>, sou estudante do curso Técnico Integrado em Informática no IFCE Maranguape. Foco meus estudos na construção de software estruturado, algoritmos eficientes e no desenvolvimento de uma base sólida em programação.
       </p>
       <p>
-        ♟️ <b>Outras Paixões:</b> Sou um jogador ativo de **xadrez** e apaixonado por **literatura**, mantendo foco constante na leitura e análise das obras obrigatórias para os vestibulares.
+        🎯 <b>Core Expertise:</b> Desenvolvimento em <b>Java</b>, modelagem de sistemas com <b>Programação Orientada a Objetos (POO)</b>, estruturas de dados dinâmicas e versionamento contínuo.
       </p>
       <ul>
-        <li>📐 <b>Interesses Principais:</b> Matemática, Resolução de Problemas, Xadrez e Literatura</li>
-        <li>📚 <b>Meta Atual:</b> Vestibulares e preparação para o IME-USP</li>
+        <li>🚀 <b>Linguagens & Ecossistema:</b> Java, JavaScript, Python</li>
+        <li>💻 <b>Web & Infraestrutura:</b> HTML5, CSS3, Linux (Bash Scripting)</li>
+        <li>🛠️ <b>Ambiente de Desenvolvimento:</b> IntelliJ IDEA, VS Code, Git CLI, GitHub</li>
       </ul>
     </td>
     <td width="35%" align="center" valign="middle">
       <br>
-      <img src="https://skillicons.dev/icons?i=java,python,linux,git,github,idea&perline=3" width="260" alt="Tech Stack Icons">
+      <img src="https://skillicons.dev/icons?i=java,js,python,html,css,linux,git,github,idea,vscode&perline=3" width="260" alt="Tech Stack Icons">
     </td>
   </tr>
 </table>
+
+---
+
+<!-- SEÇÃO: TECH STACK -->
+<div align="center">
+  <h2>🛠️ TECH STACK & ECOSYSTEM</h2>
+  <br>
+
+  <p>
+    <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  </p>
+</div>
 
 ---
 
