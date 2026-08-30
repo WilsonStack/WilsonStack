@@ -18,7 +18,7 @@
 
 <!-- SEÇÃO: SOBRE MIM -->
 <div align="center">
-  <h2>⚡ EXECUTIVE SUMMARY</h2>
+  <h2>⚡ SOBRE MIM</h2>
 </div>
 
 <table>
