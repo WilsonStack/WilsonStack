@@ -81,7 +81,32 @@
 
 ---
 
-<!-- SEÇÃO: PROJETOS EM DESTAQUE (NOlUGAR DAS ANALYTICS) -->
+<!-- SEÇÃO: ENGENHARIA DE SOFTWARE & BOAS PRÁTICAS (SUBSTITUIÇÃO DA ANÁLISE) -->
+<div align="center">
+  <h2>⚙️ CODE ARCHITECTURE & PRACTICES</h2>
+  <br>
+
+  <table>
+    <tr>
+      <td width="33%" align="center">
+        <h3>🔁 Versionamento Incremental</h3>
+        <p>Evolução contínua de projetos através de versões bem documentadas e tags semânticas no Git (<code>v0.0.0</code> → <code>v0.3.0</code>).</p>
+      </td>
+      <td width="33%" align="center">
+        <h3>📂 Código Limpo & POO</h3>
+        <p>Aplicação de conceitos como encapsulamento, coleções dinâmicas (<code>ArrayList</code>) e organização por pacotes Java.</p>
+      </td>
+      <td width="33%" align="center">
+        <h3>🧩 Padrão CRUD</h3>
+        <p>Desenvolvimento completo de operações fundamentais: Create (<code>add</code>), Read (<code>get</code>), Update (<code>set</code>) e Delete (<code>remove</code>).</p>
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+<!-- SEÇÃO: PROJETOS EM DESTAQUE -->
 <div align="center">
   <h2>📌 FEATURED PROJECTS</h2>
   <br>
@@ -90,16 +115,16 @@
     <tr>
       <td width="50%" align="center">
         <h3>📇 Agenda de Contatos</h3>
-        <p>Desenvolvimento incremental em Java demonstrando a evolução desde variáveis simples até coleções dinâmicas e CRUD completo.</p>
-        <p><code>Java</code> • <code>POO</code> • <code>ArrayList</code></p>
+        <p>Projeto incremental em Java construído para demonstrar a evolução de estruturas de dados: desde variáveis simples até coleções dinâmicas com CRUD completo.</p>
+        <p><code>Java</code> • <code>POO</code> • <code>ArrayList</code> • <code>Git Tags</code></p>
         <a href="https://github.com/WilsonStack/Agenda_contatos">
           <img src="https://img.shields.io/badge/Ver_Reposit%C3%B3rio-0D1117?style=for-the-badge&logo=github&logoColor=BD93F9" alt="Agenda Repo">
         </a>
       </td>
       <td width="50%" align="center">
-        <h3>🚀 Portfólio & Laboratório</h3>
-        <p>Repositório de práticas, algoritmos e projetos desenvolvidos no curso Técnico em Informática do IFCE Maranguape.</p>
-        <p><code>Git</code> • <code>Linux</code> • <code>Logic</code></p>
+        <h3>🚀 IFCE Lab & Práticas</h3>
+        <p>Repositório com exercícios, soluções de lógica, manipulação de arquivos e pequenos projetos desenvolvidos durante o curso no IFCE Maranguape.</p>
+        <p><code>Java</code> • <code>Linux</code> • <code>Git Flow</code></p>
         <a href="https://github.com/WilsonStack">
           <img src="https://img.shields.io/badge/Ver_Projetos-0D1117?style=for-the-badge&logo=github&logoColor=BD93F9" alt="Ver Projetos">
         </a>
