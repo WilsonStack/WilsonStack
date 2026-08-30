@@ -26,10 +26,10 @@
     <td width="65%" valign="top">
       <h3>🎓 Estudante de Técnico em Informática — IFCE Campus Maranguape</h3>
       <p>
-        Desenvolvedor focado em construção de software estruturado, algoritmos eficientes e princípios sólidos de arquitetura de código.
+        Natural de <b>Maracanaú, Ceará</b>, sou estudante do curso Técnico Integrado em Informática no IFCE Maranguape. Foco meus estudos na construção de software estruturado, algoritmos eficientes e no desenvolvimento de uma base sólida em programação.
       </p>
       <p>
-        🎯 <b>Core Expertise:</b> Desenvolvimento em <b>Java</b>, modelagem de sistemas com <b>Programação Orientada a Objetos (POO)</b>, estruturas de dados avançadas e versionamento semântico contínuo.
+        🎯 <b>Core Expertise:</b> Desenvolvimento em <b>Java</b>, modelagem de sistemas com <b>Programação Orientada a Objetos (POO)</b>, estruturas de dados dinâmicas e versionamento contínuo.
       </p>
       <ul>
         <li>🚀 <b>Linguagens & Ecossistema:</b> Java, JavaScript, Python</li>
@@ -138,6 +138,6 @@
   <code>Code • Learn • Build • Evolve</code>
   <br><br>
 
-  <!-- Onda do rodapé combinando com o azul dos olhos -->
+  <!-- Onda do rodapé na cor dos olhos -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00E5FF&height=100&section=footer" width="100%">
 </div>
