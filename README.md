@@ -5,9 +5,9 @@
 
   <br><br>
 
-  <!-- Banner Dinâmico em Terminal (Foco em POO Java) -->
+  <!-- Banner Dinâmico em Terminal (Foco em Aprendizado Base) -->
   <a href="https://github.com/WilsonStack">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2500&pause=1000&color=BD93F9&center=true&vCenter=true&width=900&lines=Developer+wilson+%3D+new+Developer(%22Wilson%22)%3B;wilson.setFocus(%22Object-Oriented+Programming%22)%3B;wilson.execute(Architecture.CLEAN_CODE)%3B;System.out.println(%22Building.+Learning.+Evolving.%22)%3B" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2500&pause=1000&color=BD93F9&center=true&vCenter=true&width=900&lines=String+status+%3D+%22Learning+Java+Fundamentals%22%3B;T%C3%A9cnico+em+Inform%C3%A1tica+%40+IFCE+Maranguape;Building+Logic.+Writing+Code.;System.out.println(%22Hello%2C+World!%22)%3B" alt="Typing SVG" />
   </a>
 
   <br><br>
@@ -31,43 +31,43 @@
 
 <!-- SEÇÃO: SOBRE MIM -->
 <div align="center">
-  <h2>⚡ EXECUTIVE SUMMARY</h2>
+  <h2>⚡ ABOUT ME</h2>
 </div>
 
 > **🎓 Estudante de Técnico em Informática — IFCE Campus Maranguape** <br>
-> *Construindo a ponte entre a lógica estruturada e o desenvolvimento de software escalável.*
+> *Construindo os alicerces da programação, um bloco de código por vez.*
 
-Desenvolvedor focado em engenharia de software, algoritmos eficientes e princípios sólidos de arquitetura de código. Transformo problemas complexos em soluções modulares e de fácil manutenção.
+Sou um estudante dedicado a aprender como os sistemas funcionam por baixo dos panos. Meu objetivo atual é dominar a **Lógica de Programação** e construir uma base técnica sólida antes de pular para ferramentas complexas. 
 
-🎯 **Core Expertise:** Desenvolvimento backend com **Java**, modelagem de sistemas através da **Programação Orientada a Objetos (POO)**, manipulação de estruturas de dados e versionamento semântico contínuo.
+🎯 **Foco Atual:** Entender os fundamentos do **Java** (variáveis, laços de repetição, vetores) e dar os primeiros passos na **Programação Orientada a Objetos (POO)**. Gosto de aprender praticando e documentando minha evolução.
 
 ---
 
 <!-- SEÇÃO: TECH STACK CATEGORIZADO -->
 <div align="center">
-  <h2>🛠️ TECHNOLOGY STACK</h2>
+  <h2>🛠️ TECHNOLOGY BASE</h2>
   <br>
 </div>
 
 <table align="center" width="100%">
   <tr>
     <td width="33%" align="center">
-      <h3>☕ Core & Backend</h3>
-      <img src="https://skillicons.dev/icons?i=java,python,bash&perline=3" alt="Backend">
+      <h3>☕ Lógica & Backend</h3>
+      <img src="https://skillicons.dev/icons?i=java,python&perline=2" alt="Backend">
       <br><br>
-      <sub>Java, Python, Bash Scripting</sub>
+      <sub>Java, Python (Fundamentos)</sub>
     </td>
     <td width="33%" align="center">
-      <h3>🌐 Frontend & UI</h3>
-      <img src="https://skillicons.dev/icons?i=js,html,css&perline=3" alt="Frontend">
+      <h3>🌐 Primeiros Passos Web</h3>
+      <img src="https://skillicons.dev/icons?i=html,css,js&perline=3" alt="Frontend">
       <br><br>
-      <sub>JavaScript, HTML5, CSS3</sub>
+      <sub>HTML5, CSS3, JavaScript básico</sub>
     </td>
     <td width="33%" align="center">
-      <h3>🔧 OS & Tools</h3>
-      <img src="https://skillicons.dev/icons?i=linux,git,github,idea,vscode&perline=3" alt="Tools">
+      <h3>🔧 Ambiente de Estudo</h3>
+      <img src="https://skillicons.dev/icons?i=linux,git,idea,vscode&perline=2" alt="Tools">
       <br><br>
-      <sub>Linux, Git, IntelliJ IDEA, VS Code</sub>
+      <sub>Linux, Git, IntelliJ, VS Code</sub>
     </td>
   </tr>
 </table>
@@ -76,11 +76,11 @@ Desenvolvedor focado em engenharia de software, algoritmos eficientes e princíp
 
 <!-- SEÇÃO: ENGENHARIA E ARQUITETURA -->
 <div align="center">
-  <h2>⚙️ ENGINEERING PARADIGMS</h2>
+  <h2>⚙️ LEARNING PROGRESS</h2>
   <br>
 
   <a href="https://github.com/WilsonStack">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=1000&color=BD93F9&background=10141E&center=true&vCenter=true&width=880&height=120&lines=OOP_PARADIGM+%3D+%7B+Encapsulation%2C+Abstraction%2C+Inheritance%2C+Polymorphism+%7D%3B;DATA_STRUCTURES+%3D+%5B%22Arrays%22%2C+%22ArrayList%22%2C+%22Collections%22%5D%3B;SOFTWARE_METRICS+%3D+%7B+Clean_Code%2C+Semantic_Versioning%2C+CRUD_Pattern+%7D%3B;%2F%2F+Code+is+read+more+often+than+it+is+written." alt="Engineering Logic" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=1000&color=BD93F9&background=10141E&center=true&vCenter=true&width=880&height=120&lines=CURRENT_FOCUS+%3D+%5B%22Programming+Logic%22%2C+%22Java+Syntax%22%5D%3B;DATA_STRUCTURES+%3D+%5B%22Variables%22%2C+%22Loops%22%2C+%22Arrays%22%5D%3B;NEXT_GOAL+%3D+%22Master+Object-Oriented+Programming+(OOP)%22%3B;%2F%2F+Practice+makes+progress." alt="Learning Logic" />
   </a>
 </div>
 
@@ -88,7 +88,7 @@ Desenvolvedor focado em engenharia de software, algoritmos eficientes e princíp
 
 <!-- SEÇÃO: REPOSITÓRIOS EM DESTAQUE (COM ESTILO KBD) -->
 <div align="center">
-  <h2>🚀 FEATURED REPOSITORIES</h2>
+  <h2>🚀 FEATURED LEARNING REPOS</h2>
   <br>
 </div>
 
@@ -96,9 +96,9 @@ Desenvolvedor focado em engenharia de software, algoritmos eficientes e princíp
   <tr>
     <td width="50%" align="center" valign="top">
       <h3>📇 Agenda_contatos</h3>
-      <p>Sistema Java modular para gerenciamento de contatos demonstrando evolução estrutural: de variáveis primitivas e Arrays fixos para coleções dinâmicas com implementação completa de CRUD.</p>
+      <p>Projeto de estudos em Java onde acompanho a evolução do armazenamento de dados: começando com variáveis simples, passando por arrays fixos e introduzindo conceitos iniciais de listas.</p>
       <p>
-        <kbd>Java</kbd> <kbd>POO</kbd> <kbd>ArrayList</kbd> <kbd>Git Tags</kbd>
+        <kbd>Java</kbd> <kbd>Lógica</kbd> <kbd>Arrays</kbd> <kbd>Estudos</kbd>
       </p>
       <br>
       <a href="https://github.com/WilsonStack/Agenda_contatos">
@@ -106,10 +106,10 @@ Desenvolvedor focado em engenharia de software, algoritmos eficientes e princíp
       </a>
     </td>
     <td width="50%" align="center" valign="top">
-      <h3>💻 Academic_Labs_IFCE</h3>
-      <p>Laboratório de desenvolvimento contendo soluções de algoritmos, estruturas de controle, automação via terminal e práticas de programação desenvolvidas durante o curso no IFCE.</p>
+      <h3>💻 Práticas IFCE</h3>
+      <p>Meu laboratório pessoal com exercícios de lógica, primeiros algoritmos e tarefas desenvolvidas durante as aulas do curso Técnico em Informática no IFCE.</p>
       <p>
-        <kbd>Java</kbd> <kbd>Linux</kbd> <kbd>Logic</kbd> <kbd>Git Flow</kbd>
+        <kbd>Java</kbd> <kbd>Algoritmos</kbd> <kbd>Fundamentos</kbd>
       </p>
       <br>
       <a href="https://github.com/WilsonStack">
@@ -131,7 +131,7 @@ Desenvolvedor focado em engenharia de software, algoritmos eficientes e princíp
   </a>
 
   <br><br>
-  <code>System.exit(0); // See you in the commits</code>
+  <code>System.out.println("Obrigado pela visita!");</code>
   <br><br>
 
   <!-- Onda animada no final -->
