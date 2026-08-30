@@ -4,7 +4,7 @@
 
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2800&pause=900&color=00E5FF&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Wilson!;T%C3%A9cnico+em+Inform%C3%A1tica+%7C+IFCE;Java+%7C+JavaScript+%7C+Python;Web+Development+%7C+Linux;Building.+Learning.+Improving." alt="Typing SVG">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2800&pause=900&color=00E5FF&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Wilson!;Estudante+de+Matem%C3%A1tica;Xadrez+%7C+Literatura;Foco+no+IME-USP;Building.+Learning.+Improving." alt="Typing SVG">
 
 <br><br>
 
@@ -24,22 +24,21 @@
 <table>
   <tr>
     <td width="65%" valign="top">
-      <h3>🎓 Estudante de Técnico em Informática — IFCE Campus Maranguape</h3>
+      <h3>🎯 Foco: Licenciatura em Matemática — IME-USP</h3>
       <p>
-        Natural de <b>Maracanaú, Ceará</b>, sou estudante do curso Técnico Integrado em Informática no IFCE Maranguape. Foco meus estudos na construção de software estruturado, algoritmos eficientes e no desenvolvimento de uma base sólida em programação.
+        Natural de <b>Maracanaú, Ceará</b>, sou estudante do IFCE Campus Maranguape. Embora esteja cursando informática por obrigação escolar, o que realmente me move é a <b>Matemática pura</b>, com o objetivo de ingressar na Licenciatura em Matemática no IME-USP.
       </p>
       <p>
-        🎯 <b>Core Expertise:</b> Desenvolvimento em <b>Java</b>, modelagem de sistemas com <b>Programação Orientada a Objetos (POO)</b>, estruturas de dados dinâmicas e versionamento contínuo.
+        ♟️ <b>Outras Paixões:</b> Sou um jogador ativo de **xadrez** e apaixonado por **literatura**, mantendo foco constante na leitura e análise das obras obrigatórias para os vestibulares.
       </p>
       <ul>
-        <li>🚀 <b>Linguagens & Ecossistema:</b> Java, JavaScript, Python</li>
-        <li>💻 <b>Web & Infraestrutura:</b> HTML5, CSS3, Linux (Bash Scripting)</li>
-        <li>🛠️ <b>Ambiente de Desenvolvimento:</b> IntelliJ IDEA, VS Code, Git CLI, GitHub</li>
+        <li>📐 <b>Interesses Principais:</b> Matemática, Resolução de Problemas, Xadrez e Literatura</li>
+        <li>📚 <b>Meta Atual:</b> Vestibulares e preparação para o IME-USP</li>
       </ul>
     </td>
     <td width="35%" align="center" valign="middle">
       <br>
-      <img src="https://skillicons.dev/icons?i=java,js,python,html,css,linux,git,github,idea,vscode&perline=3" width="260" alt="Tech Stack Icons">
+      <img src="https://skillicons.dev/icons?i=java,python,linux,git,github,idea&perline=3" width="260" alt="Tech Stack Icons">
     </td>
   </tr>
 </table>
@@ -53,10 +52,7 @@
 
   <p>
     <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
     <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
     <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   </p>
@@ -74,9 +70,9 @@
       <td align="center" valign="top">
         <h2>📇 Agenda de Contatos (CRUD Completo)</h2>
         <p>
-          Sistema modular em Java desenvolvido em etapas incrementais (de <code>v0.0.0</code> até <code>v0.3.0</code>). 
+          Sistema modular em Java desenvolvido em etapas incrementais (de <code>v0.0.0</code> até <code>v0.3.0</code>) para cumprir as demandas acadêmicas do curso técnico.
           Demonstra a evolução estrutural desde variáveis primitivas e Arrays fixos até coleções dinâmicas avançadas (<code>ArrayList</code>) 
-          e implementação completa de operações CRUD (Create, Read, Update, Delete) com versionamento semântico via Git Tags.
+          e implementação completa de operações CRUD com versionamento semântico via Git Tags.
         </p>
         <p>
           <code>Java</code> • <code>POO</code> • <code>ArrayList</code> • <code>Git Tags</code> • <code>CRUD</code>
@@ -99,25 +95,20 @@
 
   <table>
     <tr>
-      <td align="center" width="25%">
+      <td align="center" width="33%">
         <img src="https://skillicons.dev/icons?i=java" width="48"><br><br>
         <b>Java & POO</b><br>
-        <sub>Classes, Encapsulamento, Coleções & Padrões</sub>
+        <sub>Requisitos Acadêmicos & Lógica</sub>
       </td>
-      <td align="center" width="25%">
+      <td align="center" width="33%">
         <img src="https://skillicons.dev/icons?i=git" width="48"><br><br>
         <b>Versionamento</b><br>
-        <sub>Git Flow, Commits Semânticos & Releases</sub>
+        <sub>Git Flow, Commits & Releases</sub>
       </td>
-      <td align="center" width="25%">
-        <img src="https://skillicons.dev/icons?i=js" width="48"><br><br>
-        <b>Web Development</b><br>
-        <sub>Lógica Frontend, DOM & APIs</sub>
-      </td>
-      <td align="center" width="25%">
+      <td align="center" width="33%">
         <img src="https://skillicons.dev/icons?i=linux" width="48"><br><br>
         <b>Linux Ecosystem</b><br>
-        <sub>Bash, Terminal & Produtividade</sub>
+        <sub>Terminal & Produtividade</sub>
       </td>
     </tr>
   </table>
@@ -135,7 +126,7 @@
   </a>
 
   <br><br>
-  <code>Code • Learn • Build • Evolve</code>
+  <code>Math • Chess • Literature • Focus on IME-USP</code>
   <br><br>
 
   <!-- Onda do rodapé na cor dos olhos -->
