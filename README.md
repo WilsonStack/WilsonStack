@@ -81,19 +81,31 @@
 
 ---
 
-<!-- SEÇÃO: ESTATÍSTICAS DO GITHUB -->
+<!-- SEÇÃO: PROJETOS EM DESTAQUE (NOlUGAR DAS ANALYTICS) -->
 <div align="center">
-  <h2>📈 GITHUB ANALYTICS</h2>
+  <h2>📌 FEATURED PROJECTS</h2>
   <br>
 
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=WilsonStack&show_icons=true&theme=tokyonight&hide_border=true&title_color=BD93F9&icon_color=BD93F9&text_color=A9B1D6&bg_color=0D1117" width="48%" alt="Wilson's GitHub Stats" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WilsonStack&layout=compact&theme=tokyonight&hide_border=true&title_color=BD93F9&text_color=A9B1D6&bg_color=0D1117" width="48%" alt="Top Languages" />
-  </p>
-
-  <p align="center">
-    <img src="https://streak-stats.demolab.com?user=WilsonStack&theme=tokyonight&hide_border=true&locale=pt_BR&background=0D1117&ring=BD93F9&fire=BD93F9&currStreakLabel=BD93F9" width="60%" alt="GitHub Streak" />
-  </p>
+  <table>
+    <tr>
+      <td width="50%" align="center">
+        <h3>📇 Agenda de Contatos</h3>
+        <p>Desenvolvimento incremental em Java demonstrando a evolução desde variáveis simples até coleções dinâmicas e CRUD completo.</p>
+        <p><code>Java</code> • <code>POO</code> • <code>ArrayList</code></p>
+        <a href="https://github.com/WilsonStack/Agenda_contatos">
+          <img src="https://img.shields.io/badge/Ver_Reposit%C3%B3rio-0D1117?style=for-the-badge&logo=github&logoColor=BD93F9" alt="Agenda Repo">
+        </a>
+      </td>
+      <td width="50%" align="center">
+        <h3>🚀 Portfólio & Laboratório</h3>
+        <p>Repositório de práticas, algoritmos e projetos desenvolvidos no curso Técnico em Informática do IFCE Maranguape.</p>
+        <p><code>Git</code> • <code>Linux</code> • <code>Logic</code></p>
+        <a href="https://github.com/WilsonStack">
+          <img src="https://img.shields.io/badge/Ver_Projetos-0D1117?style=for-the-badge&logo=github&logoColor=BD93F9" alt="Ver Projetos">
+        </a>
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
