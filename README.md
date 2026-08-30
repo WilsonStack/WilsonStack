@@ -4,12 +4,12 @@
 
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2800&pause=900&color=1f6feb&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Wilson!;T%C3%A9cnico+em+Inform%C3%A1tica+%7C+IFCE;Java+%7C+JavaScript+%7C+Python;Web+Development+%7C+Linux;Building.+Learning.+Improving." alt="Typing SVG">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2800&pause=900&color=00E5FF&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Wilson!;T%C3%A9cnico+em+Inform%C3%A1tica+%7C+IFCE;Java+%7C+JavaScript+%7C+Python;Web+Development+%7C+Linux;Building.+Learning.+Improving." alt="Typing SVG">
 
 <br><br>
 
 <a href="https://github.com/WilsonStack">
-<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=1f6feb" alt="GitHub">
+<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00E5FF" alt="GitHub">
 </a>
 
 </div>
@@ -83,7 +83,7 @@
         </p>
         <br>
         <a href="https://github.com/WilsonStack/Agenda_contatos">
-          <img src="https://img.shields.io/badge/View_Main_Repository-0D1117?style=for-the-badge&logo=github&logoColor=1f6feb" alt="Agenda Repo">
+          <img src="https://img.shields.io/badge/View_Main_Repository-0D1117?style=for-the-badge&logo=github&logoColor=00E5FF" alt="Agenda Repo">
         </a>
       </td>
     </tr>
@@ -131,13 +131,13 @@
   <br>
 
   <a href="mailto:fco.wilson11@gmail.com">
-    <img src="https://img.shields.io/badge/Email-fco.wilson11%40gmail.com-10141E?style=for-the-badge&logo=gmail&logoColor=1f6feb" alt="Email">
+    <img src="https://img.shields.io/badge/Email-fco.wilson11%40gmail.com-10141E?style=for-the-badge&logo=gmail&logoColor=00E5FF" alt="Email">
   </a>
 
   <br><br>
   <code>Code • Learn • Build • Evolve</code>
   <br><br>
 
-  <!-- Onda do rodapé em Azul Marinho -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=100&section=footer" width="100%">
+  <!-- Onda do rodapé combinando com o azul dos olhos -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00E5FF&height=100&section=footer" width="100%">
 </div>
