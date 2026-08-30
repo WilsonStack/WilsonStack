@@ -1,122 +1,44 @@
 <div align="center">
 
-  <!-- Imagem Principal -->
-  <img src="./chess_github_animation.gif" width="100%" alt="Strategic Thinking">
+<img src="./chess_github_animation.gif" width="100%" alt="Chess Animation">
 
-  <br><br>
+<br><br>
 
-  <!-- Banner com efeito de digitação -->
-  <a href="https://github.com/WilsonStack">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2500&pause=1000&color=BD93F9&center=true&vCenter=true&width=900&lines=T%C3%A9cnico+em+Inform%C3%A1tica+%40+IFCE+Maranguape;Construindo+uma+base+s%C3%B3lida+em+Software;Foco+em+L%C3%B3gica+e+Boas+Pr%C3%A1ticas;System.out.println(%22Hello%2C+World!%22)%3B" alt="Typing SVG" />
-  </a>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2800&pause=900&color=BD93F9&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Wilson!;T%C3%A9cnico+em+Inform%C3%A1tica+%7C+IFCE;Java+%7C+JavaScript+%7C+Python;Web+Development+%7C+Linux;Building.+Learning.+Improving." alt="Typing SVG">
 
-  <br><br>
+<br><br>
 
-  <!-- Contatos e Localização -->
-  <a href="https://github.com/WilsonStack">
-    <img src="https://img.shields.io/badge/GitHub-10141E?style=for-the-badge&logo=github&logoColor=BD93F9" alt="GitHub">
-  </a>
-  <a href="mailto:fco.wilson11@gmail.com">
-    <img src="https://img.shields.io/badge/fco.wilson11%40gmail.com-10141E?style=for-the-badge&logo=gmail&logoColor=BD93F9" alt="Email">
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Cear%C3%A1%2C_BR-10141E?style=for-the-badge&logo=googlemaps&logoColor=BD93F9" alt="Location">
-  </a>
+<a href="https://github.com/WilsonStack">
+<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=BD93F9" alt="GitHub">
+</a>
 
 </div>
-
-<br>
 
 ---
 
 <div align="center">
-  <h2>📌 PERFIL PROFISSIONAL</h2>
+  <h2>⚡ EXECUTIVE SUMMARY</h2>
 </div>
 
-Sou estudante do curso **Técnico em Informática no IFCE Campus Maranguape**, com foco em desenvolver uma base estrutural forte em programação. Meu objetivo atual é dominar a lógica por trás dos sistemas e compreender o funcionamento essencial do código antes de avançar para frameworks complexos.
-
-Priorizo o aprendizado prático, a escrita de código organizado e a utilização de boas ferramentas de desenvolvimento desde o início da minha formação.
-
----
-
-<div align="center">
-  <h2>🛠️ TECNOLOGIAS E FERRAMENTAS</h2>
-  <br>
-</div>
-
-<table align="center" width="100%">
+<table>
   <tr>
-    <td width="33%" align="center">
-      <h3>💻 Linguagens base</h3>
-      <img src="https://skillicons.dev/icons?i=java,python&perline=2" alt="Backend">
-      <br><br>
-      <sub>Java & Python</sub>
-    </td>
-    <td width="33%" align="center">
-      <h3>🌐 Web</h3>
-      <img src="https://skillicons.dev/icons?i=html,css,js&perline=3" alt="Frontend">
-      <br><br>
-      <sub>HTML, CSS, JavaScript</sub>
-    </td>
-    <td width="33%" align="center">
-      <h3>🔧 Ecossistema</h3>
-      <img src="https://skillicons.dev/icons?i=linux,git,idea,vscode&perline=2" alt="Tools">
-      <br><br>
-      <sub>Linux, Git, IntelliJ, VS Code</sub>
-    </td>
-  </tr>
-</table>
-
----
-
-<div align="center">
-  <h2>⚙️ METODOLOGIA DE ESTUDO</h2>
-  <br>
-</div>
-
-<table width="100%">
-  <tr>
-    <td width="50%" align="center" valign="top">
-      <h3>Estruturação Lógica</h3>
-      <p>Estudo contínuo de algoritmos, tipos de dados e controle de fluxo, garantindo que cada linha de código escrita em meus projetos tenha um propósito claro.</p>
-    </td>
-    <td width="50%" align="center" valign="top">
-      <h3>Versionamento de Código</h3>
-      <p>Uso prático do <b>Git</b> e <b>GitHub</b> para documentar a evolução de cada etapa do aprendizado, mantendo o histórico de alterações organizado e acessível.</p>
-    </td>
-  </tr>
-</table>
-
----
-
-<div align="center">
-  <h2>🚀 PROJETOS E LABORATÓRIO</h2>
-  <br>
-</div>
-
-<table width="100%">
-  <tr>
-    <td width="50%" align="center" valign="top">
-      <h3>📇 Agenda_contatos</h3>
-      <p>Projeto de estudos focado na evolução do armazenamento de dados em Java: entendendo a transição de variáveis simples para vetores e a introdução ao uso de <code>ArrayList</code>.</p>
+    <td width="65%" valign="top">
+      <h3>🎓 Estudante de Técnico em Informática — IFCE Campus Maranguape</h3>
       <p>
-        <kbd>Java</kbd> <kbd>Coleções</kbd> <kbd>Lógica</kbd>
+        Desenvolvedor focado em construção de software estruturado, algoritmos eficientes e princípios sólidos de arquitetura de código.
       </p>
-      <br>
-      <a href="https://github.com/WilsonStack/Agenda_contatos">
-        <img src="https://img.shields.io/badge/Ver_Reposit%C3%B3rio-10141E?style=for-the-badge&logo=github&logoColor=BD93F9" alt="Agenda Repo">
-      </a>
-    </td>
-    <td width="50%" align="center" valign="top">
-      <h3>💻 Práticas_Acadêmicas</h3>
-      <p>Repositório dedicado aos exercícios, desafios de lógica e pequenos sistemas construídos durante as aulas e atividades do curso técnico no IFCE.</p>
       <p>
-        <kbd>Java</kbd> <kbd>Algoritmos</kbd> <kbd>Fundamentos</kbd>
+        🎯 <b>Core Expertise:</b> Desenvolvimento em <b>Java</b>, modelagem de sistemas com <b>Programação Orientada a Objetos (POO)</b>, estruturas de dados avançadas e versionamento semântico contínuo.
       </p>
+      <ul>
+        <li>🚀 <b>Linguagens & Ecossistema:</b> Java, JavaScript, Python</li>
+        <li>💻 <b>Web & Infraestrutura:</b> HTML5, CSS3, Linux (Bash Scripting)</li>
+        <li>🛠️ <b>Ambiente de Desenvolvimento:</b> IntelliJ IDEA, VS Code, Git CLI, GitHub</li>
+      </ul>
+    </td>
+    <td width="35%" align="center" valign="middle">
       <br>
-      <a href="https://github.com/WilsonStack">
-        <img src="https://img.shields.io/badge/Ver_Projetos-10141E?style=for-the-badge&logo=github&logoColor=BD93F9" alt="Labs">
-      </a>
+      <img src="https://skillicons.dev/icons?i=java,js,python,html,css,linux,git,github,idea,vscode&perline=3" width="260" alt="Tech Stack Icons">
     </td>
   </tr>
 </table>
@@ -124,15 +46,92 @@ Priorizo o aprendizado prático, a escrita de código organizado e a utilizaçã
 ---
 
 <div align="center">
-  <h2>📫 CONTATO</h2>
+  <h2>🛠️ TECH STACK & ECOSYSTEM</h2>
+  <br>
+
+  <p>
+    <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  </p>
+</div>
+
+---
+
+<div align="center">
+  <h2>🚀 FEATURED MAIN SYSTEM</h2>
+  <br>
+
+  <table width="100%">
+    <tr>
+      <td align="center" valign="top">
+        <h2>📇 Agenda de Contatos (CRUD Completo)</h2>
+        <p>
+          Sistema modular em Java desenvolvido em etapas incrementais (de <code>v0.0.0</code> até <code>v0.3.0</code>). 
+          Demonstra a evolução estrutural desde variáveis primitivas e Arrays fixos até coleções dinâmicas avançadas (<code>ArrayList</code>) 
+          e implementação completa de operações CRUD (Create, Read, Update, Delete) com versionamento semântico via Git Tags.
+        </p>
+        <p>
+          <code>Java</code> • <code>POO</code> • <code>ArrayList</code> • <code>Git Tags</code> • <code>CRUD</code>
+        </p>
+        <br>
+        <a href="https://github.com/WilsonStack/Agenda_contatos">
+          <img src="https://img.shields.io/badge/View_Main_Repository-0D1117?style=for-the-badge&logo=github&logoColor=BD93F9" alt="Agenda Repo">
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+<div align="center">
+  <h2>🎯 DOMAIN & ROADMAP</h2>
+  <br>
+
+  <table>
+    <tr>
+      <td align="center" width="25%">
+        <img src="https://skillicons.dev/icons?i=java" width="48"><br><br>
+        <b>Java & POO</b><br>
+        <sub>Classes, Encapsulamento, Coleções & Padrões</sub>
+      </td>
+      <td align="center" width="25%">
+        <img src="https://skillicons.dev/icons?i=git" width="48"><br><br>
+        <b>Versionamento</b><br>
+        <sub>Git Flow, Commits Semânticos & Releases</sub>
+      </td>
+      <td align="center" width="25%">
+        <img src="https://skillicons.dev/icons?i=js" width="48"><br><br>
+        <b>Web Development</b><br>
+        <sub>Lógica Frontend, DOM & APIs</sub>
+      </td>
+      <td align="center" width="25%">
+        <img src="https://skillicons.dev/icons?i=linux" width="48"><br><br>
+        <b>Linux Ecosystem</b><br>
+        <sub>Bash, Terminal & Produtividade</sub>
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+<div align="center">
+  <h2>📫 CONNECT & CONTACT</h2>
   <br>
 
   <a href="mailto:fco.wilson11@gmail.com">
-    <img src="https://img.shields.io/badge/fco.wilson11%40gmail.com-10141E?style=for-the-badge&logo=gmail&logoColor=BD93F9" alt="Email">
+    <img src="https://img.shields.io/badge/Email-fco.wilson11%40gmail.com-10141E?style=for-the-badge&logo=gmail&logoColor=BD93F9" alt="Email">
   </a>
 
   <br><br>
+  <code>Code • Learn • Build • Evolve</code>
+  <br><br>
 
-  <!-- Animação do rodapé -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=BD93F9&height=120&section=footer" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=BD93F9&height=100&section=footer" width="100%">
 </div>
