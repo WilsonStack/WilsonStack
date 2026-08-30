@@ -18,27 +18,28 @@
 
 <!-- SEÇÃO: SOBRE MIM -->
 <div align="center">
-  <h2>⚡ SOBRE MIM</h2>
+  <h2>⚡ EXECUTIVE SUMMARY</h2>
 </div>
 
 <table>
   <tr>
     <td width="65%" valign="top">
-      <h3>🎯 Foco: Licenciatura em Matemática — IME-USP</h3>
+      <h3>🎓 Estudante de Técnico em Informática — IFCE Campus Maranguape</h3>
       <p>
-        Natural de <b>Maracanaú, Ceará</b>, sou estudante do IFCE Campus Maranguape. Embora esteja cursando informática por obrigação escolar, o que realmente me move é a <b>Matemática pura</b>, com o objetivo de ingressar na Licenciatura em Matemática no IME-USP.
+        Desenvolvedor focado em construção de software estruturado, algoritmos eficientes e princípios sólidos de arquitetura de código.
       </p>
       <p>
-        ♟️ <b>Outras Paixões:</b> Sou um jogador ativo de **xadrez** e apaixonado por **literatura**, mantendo foco constante na leitura e análise das obras obrigatórias para os vestibulares.
+        🎯 <b>Core Expertise:</b> Desenvolvimento em <b>Java</b>, modelagem de sistemas com <b>Programação Orientada a Objetos (POO)</b>, estruturas de dados avançadas e versionamento semântico contínuo.
       </p>
       <ul>
-        <li>📐 <b>Interesses Principais:</b> Matemática, Resolução de Problemas, Xadrez e Literatura</li>
-        <li>📚 <b>Meta Atual:</b> Vestibulares e preparação para o IME-USP</li>
+        <li>🚀 <b>Linguagens & Ecossistema:</b> Java, JavaScript, Python</li>
+        <li>💻 <b>Web & Infraestrutura:</b> HTML5, CSS3, Linux (Bash Scripting)</li>
+        <li>🛠️ <b>Ambiente de Desenvolvimento:</b> IntelliJ IDEA, VS Code, Git CLI, GitHub</li>
       </ul>
     </td>
     <td width="35%" align="center" valign="middle">
       <br>
-      <img src="https://skillicons.dev/icons?i=java,python,linux,git,github,idea&perline=3" width="260" alt="Tech Stack Icons">
+      <img src="https://skillicons.dev/icons?i=java,js,python,html,css,linux,git,github,idea,vscode&perline=3" width="260" alt="Tech Stack Icons">
     </td>
   </tr>
 </table>
