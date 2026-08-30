@@ -4,18 +4,19 @@
 
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2800&pause=900&color=BD93F9&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Wilson!;T%C3%A9cnico+em+Inform%C3%A1tica+%7C+IFCE;Java+%7C+JavaScript+%7C+Python;Web+Development+%7C+Linux;Building.+Learning.+Improving." alt="Typing SVG">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Wilson!;T%C3%A9cnico+em+Inform%C3%A1tica+%7C+IFCE;Java+%7C+JavaScript+%7C+Python;Web+Development+%7C+Linux;Building.+Learning.+Improving." alt="Typing SVG">
 
 <br><br>
 
 <a href="https://github.com/WilsonStack">
-<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=BD93F9" alt="GitHub">
+<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=58A6FF" alt="GitHub">
 </a>
 
 </div>
 
 ---
 
+<!-- SEÇÃO: SOBRE MIM -->
 <div align="center">
   <h2>⚡ EXECUTIVE SUMMARY</h2>
 </div>
@@ -45,6 +46,7 @@
 
 ---
 
+<!-- SEÇÃO: TECH STACK -->
 <div align="center">
   <h2>🛠️ TECH STACK & ECOSYSTEM</h2>
   <br>
@@ -62,6 +64,7 @@
 
 ---
 
+<!-- SEÇÃO: PROJETO PRINCIPAL EM DESTAQUE -->
 <div align="center">
   <h2>🚀 FEATURED MAIN SYSTEM</h2>
   <br>
@@ -80,7 +83,7 @@
         </p>
         <br>
         <a href="https://github.com/WilsonStack/Agenda_contatos">
-          <img src="https://img.shields.io/badge/View_Main_Repository-0D1117?style=for-the-badge&logo=github&logoColor=BD93F9" alt="Agenda Repo">
+          <img src="https://img.shields.io/badge/View_Main_Repository-0D1117?style=for-the-badge&logo=github&logoColor=58A6FF" alt="Agenda Repo">
         </a>
       </td>
     </tr>
@@ -89,6 +92,7 @@
 
 ---
 
+<!-- SEÇÃO: ROADMAP DE APRENDIZADO -->
 <div align="center">
   <h2>🎯 DOMAIN & ROADMAP</h2>
   <br>
@@ -121,17 +125,19 @@
 
 ---
 
+<!-- RODAPÉ -->
 <div align="center">
   <h2>📫 CONNECT & CONTACT</h2>
   <br>
 
   <a href="mailto:fco.wilson11@gmail.com">
-    <img src="https://img.shields.io/badge/Email-fco.wilson11%40gmail.com-10141E?style=for-the-badge&logo=gmail&logoColor=BD93F9" alt="Email">
+    <img src="https://img.shields.io/badge/Email-fco.wilson11%40gmail.com-10141E?style=for-the-badge&logo=gmail&logoColor=58A6FF" alt="Email">
   </a>
 
   <br><br>
   <code>Code • Learn • Build • Evolve</code>
   <br><br>
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=BD93F9&height=100&section=footer" width="100%">
+  <!-- Onda do rodapé alterada para azul -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=58A6FF&height=100&section=footer" width="100%">
 </div>
