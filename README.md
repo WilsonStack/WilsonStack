@@ -81,39 +81,39 @@
 
 ---
 
-<!-- SEÇÃO: TERMINAL CODE QUOTE (SUBSTITUIÇÃO DA ANÁLISE) -->
+<!-- SEÇÃO: ENGENHARIA E PARADIGMAS (SUBSTITUIÇÃO DE FILOSOFIA) -->
 <div align="center">
-  <h2>💻 DEV PHILOSOPHY</h2>
+  <h2>⚙️ ENGINEERING LOGIC & PARADIGMS</h2>
   <br>
 
   <a href="https://github.com/WilsonStack">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=BD93F9&background=10141E&center=true&vCenter=true&width=850&height=100&lines=while+(learning)+%7B+code()%3B+build()%3B+improve()%3B+%7D;System.out.println(%22Clean+code+always+wins.%22)%3B;Java+%2B+Data+Structures+%2B+OOP%3B" alt="Dev Quote" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2800&pause=1000&color=BD93F9&background=10141E&center=true&vCenter=true&width=880&height=100&lines=OOP_Principles+%3D+%5B%22Encapsulation%22%2C+%22Abstraction%22%2C+%22Inheritance%22%2C+%22Polymorphism%22%5D%3B;Data_Structures+%3D+%5B%22Arrays%22%2C+%22ArrayList%22%2C+%22Collections%22%5D%3B;CRUD_Pattern+%3D+%7B+Create%2C+Read%2C+Update%2C+Delete+%7D%3B" alt="Engineering Logic" />
   </a>
 </div>
 
 ---
 
-<!-- SEÇÃO: PROJETOS EM DESTAQUE -->
+<!-- SEÇÃO: SISTEMAS E REPOSITÓRIOS (SUBSTITUIÇÃO DE PROJETOS EM DESTAQUE) -->
 <div align="center">
-  <h2>📌 FEATURED PROJECTS</h2>
+  <h2>🚀 FEATURED SYSTEMS & REPOSITORIES</h2>
   <br>
 
   <table>
     <tr>
       <td width="50%" align="center">
-        <h3>📇 Agenda de Contatos</h3>
-        <p>Projeto incremental em Java construído para demonstrar a evolução de estruturas de dados: desde variáveis simples até coleções dinâmicas com CRUD completo.</p>
-        <p><code>Java</code> • <code>POO</code> • <code>ArrayList</code> • <code>Git Tags</code></p>
+        <h3>📇 Agenda_contatos</h3>
+        <p>Sistema Java modular para gerenciamento de contatos, demonstrando arquitetura incremental: desde variáveis primitivas a coleções dinâmicas com padrão CRUD.</p>
+        <p><code>Java</code> • <code>POO</code> • <code>ArrayList</code> • <code>Semantic Versioning</code></p>
         <a href="https://github.com/WilsonStack/Agenda_contatos">
-          <img src="https://img.shields.io/badge/Ver_Reposit%C3%B3rio-0D1117?style=for-the-badge&logo=github&logoColor=BD93F9" alt="Agenda Repo">
+          <img src="https://img.shields.io/badge/Explore_Repository-0D1117?style=for-the-badge&logo=github&logoColor=BD93F9" alt="Agenda Repo">
         </a>
       </td>
       <td width="50%" align="center">
-        <h3>🚀 IFCE Lab & Práticas</h3>
-        <p>Repositório com exercícios, soluções de lógica, manipulação de arquivos e pequenos projetos desenvolvidos durante o curso no IFCE Maranguape.</p>
-        <p><code>Java</code> • <code>Linux</code> • <code>Git Flow</code></p>
+        <h3>💻 Academic_Labs_IFCE</h3>
+        <p>Repositório de algoritmos, estruturas de dados, resolução de problemas e projetos de automação desenvolvidos no curso Técnico em Informática.</p>
+        <p><code>Java</code> • <code>Algorithms</code> • <code>Linux</code> • <code>Git Flow</code></p>
         <a href="https://github.com/WilsonStack">
-          <img src="https://img.shields.io/badge/Ver_Projetos-0D1117?style=for-the-badge&logo=github&logoColor=BD93F9" alt="Ver Projetos">
+          <img src="https://img.shields.io/badge/Explore_Source-0D1117?style=for-the-badge&logo=github&logoColor=BD93F9" alt="Ver Projetos">
         </a>
       </td>
     </tr>
