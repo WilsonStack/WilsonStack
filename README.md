@@ -125,9 +125,8 @@
   </a>
 
   <br><br>
-  <code>Math • Chess • Literature • Focus on IME-USP</code>
+  <code>Code • Learn • Build • Evolve</code>
   <br><br>
 
-  <!-- Onda do rodapé na cor roxa original -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=BD93F9&height=100&section=footer" width="100%">
 </div>
