@@ -45,7 +45,7 @@
         Desenvolvedor focado em construção de software estruturado, algoritmos eficientes e princípios sólidos de arquitetura de código.
       </p>
       <p>
-        🎯 <b>Core Expertise:</b> Desenvolvimento em <b>Java</b>, modelagem de sistemas com <b>Programação Orientada a Objetos (POO)</b>, estruturas de dados avançadas e versionamento semântico contínuo.
+        🎯 <b>Core Expertise:</b> Desenvolvimento em <b>Java</b>, modelagem de sistemas com <b>Programação Orientada a Objetos (POO)</b>, estruturas de dados e versionamento semântico contínuo.
       </p>
       <ul>
         <li>🚀 <b>Linguagens & Ecossistema:</b> Java, JavaScript, Python</li>
