@@ -26,14 +26,14 @@
     <td width="65%" valign="top">
       <h3>🎓 Estudante de Técnico em Informática — IFCE Campus Maranguape</h3>
       <p>
-        Natural de <b>Maracanaú, Ceará</b>, sou estudante do curso Técnico Integrado em Informática no IFCE Maranguape. Foco meus estudos na construção de software estruturado, algoritmos eficientes e no desenvolvimento de uma base sólida em programação.
+        Sou estudante do curso Técnico Integrado em Informática no IFCE Maranguape. Foco meus estudos em vestibular e xadrez.
       </p>
       <p>
         🎯 <b>Core Expertise:</b> Desenvolvimento em <b>Java</b>, modelagem de sistemas com <b>Programação Orientada a Objetos (POO)</b>, estruturas de dados dinâmicas e versionamento contínuo.
       </p>
       <ul>
         <li>🚀 <b>Linguagens & Ecossistema:</b> Java, JavaScript, Python</li>
-        <li>💻 <b>Web & Infraestrutura:</b> HTML5, CSS3, Linux (Bash Scripting)</li>
+        <li>💻 <b>Web & Infraestrutura:</b> HTML, CSS, Linux (Bash Scripting)</li>
         <li>🛠️ <b>Ambiente de Desenvolvimento:</b> IntelliJ IDEA, VS Code, Git CLI, GitHub</li>
       </ul>
     </td>
